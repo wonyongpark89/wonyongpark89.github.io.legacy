@@ -18,7 +18,7 @@ University of Southampton, Higher Education Innovation Fund
 * The SeaCity Museum
 
 # Presentations <br/>
-* Park, W. (2023, November). From Titanic to Sewol: Science education, resilience and disaster justice. Paper presented at the Annual Meeting of the Society for Social Studies of Science (4S). Honolulu, HI, USA.
+* Park, W. (2023, November). From Titanic to Sewol: Science education, resilience and disaster justice. Society for Social Studies of Science (4S). Honolulu, HI, USA.
 * Park, W., Shaby, N., & Newman, R. (2024, January). Integrating science and history learning: The Remembering Titanic project. Association for Science Education (ASE). Northampton, UK.
 
 # Publications <br/>
