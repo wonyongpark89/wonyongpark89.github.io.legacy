@@ -1,16 +1,18 @@
 # main links links
 main:
+  - title: "Projects"
+    url: /projects/
+    
   - title: "Publications"
     url: /publications/
 
+# not using right now
   - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Projects"
-    url: /projects/
+
         
   - title: "Blog Posts"
     url: /year-archive/
