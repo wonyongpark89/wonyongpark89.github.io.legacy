@@ -10,10 +10,10 @@ The project combines disaster justice education and community-based participator
 Research England
 
 # Team <br/>
-* Wonyong Park, University of Southampton (Principal Investigator) <br/>
-* Nigel Fancourt, University of Oxford (Co-Investigator) <br/>
-* Hanan Wahabi, Grenfell Tower Memorial Commission (Co-Investigator) <br/>
-* Arzhia Habibi, University of Oxford (Research Assistant) <br/>
+* **Wonyong Park**, University of Southampton (Principal Investigator) <br/>
+* **Nigel Fancourt**, University of Oxford (Co-Investigator) <br/>
+* **Hanan Wahabi**, Grenfell Tower Memorial Commission (Co-Investigator) <br/>
+* **Arzhia Habibi**, University of Oxford (Research Assistant) <br/>
 
 # Partners  <br/>
 * The Grenfell Foundation
