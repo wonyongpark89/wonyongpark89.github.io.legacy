@@ -6,10 +6,10 @@ collection: projects
 
 This project brought together disaster researchers, educators, survivors and bereaved families from the UK and South Korea to facilitate dialogues about disaster education.
 
-# Funder <br/>
+## Funder <br/>
 Economic and Social Research Council
 
-# Team <br/>
+## Team <br/>
 * **Wonyong Park**, University of Southampton (Principal Investigator) <br/>
 * **Marcus Grace**, University of Southampton (Co-Investigator) <br/>
 * **Andri Christodoulou**, University of Southampton (Co-Investigator) <br/>
@@ -22,7 +22,7 @@ Economic and Social Research Council
 * **Yeonjoo Ko**, Jeju National University (Co-Investigator) <br/>
 * **Hyunok Lee**, Kangwon National University (Co-Investigator) <br/>
 
-# Publications <br/>
+## Publications <br/>
 
-# Presentations <br/>
+## Presentations <br/>
 
