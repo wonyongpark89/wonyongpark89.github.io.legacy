@@ -22,13 +22,13 @@ repository               : "wonyongpark89/wonyongpark89.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Wonyong Park"
+  pronouns         : # example: "he/him"  
+  bio              : "An educational researcher with an interest in science and social justice"
+  location         : "Southampton, UK"
+  employer         : "University of Southampton"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "w.park@soton.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
