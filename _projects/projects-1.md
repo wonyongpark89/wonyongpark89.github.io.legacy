@@ -28,3 +28,8 @@ Research England
 * To understand the community’s experiences, views, emotions and hopes related to Grenfell
 * To develop a set of priorities and approaches for disaster justice education in the context of Grenfell
 * To produce actionable policy recommendations for disaster justice education in the context of Grenfell
+
+# Publications <br/>
+
+# Presentations <br/>
+* Park, W., Fancourt, N., & Habibi, A. (2024, September). Learning from Grenfell: Centering the disaster-affected community to promote education for social justice. British Educational Research Association (BERA) Annual Meeting, Manchester, UK.
