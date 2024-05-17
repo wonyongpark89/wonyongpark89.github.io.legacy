@@ -11,7 +11,7 @@ This project responds to the deadly blizzard that hit Buffalo, NY in 2022. We ar
 
 ## Team <br/>
 * **Noemi Waight**, University at Buffalo (Principal Investigator) <br/>
-* **Wonyong Park**, University of Oxford (Co-Principal Investigator) <br/>
+* **Wonyong Park**, University of Southampton (Co-Principal Investigator) <br/>
 * **Christopher St. Vil**, University at Buffalo (Co-Principal Investigator) <br/>
 * **Jennifer Tripp**, University at Buffalo (Postdoctoral Researcher) <br/>
 

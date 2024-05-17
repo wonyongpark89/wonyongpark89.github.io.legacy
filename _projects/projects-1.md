@@ -37,4 +37,4 @@ The project combines disaster justice education and community-based participator
 
 ## Links
 * [The Grenfell Curriculum (Twitter)](https://x.com/teachgrenfell)
-* [GTMC Final Report](_posts/2023-11-05-blog-post-1.md)
+* [GTMC Final Report](https://wonyongpark89.github.io/posts/2023/11/gtmc-final-report/)

@@ -32,4 +32,4 @@ This project brought together disaster researchers, educators, survivors and ber
 
 ## Links <br/>
 * [Disaster Education for a Just and Resilient Future: An International Conference](https://sites.google.com/view/disastereducation/)
-* [Education and Memorialisation for Disaster Justice: Webinar](_posts/2024-01-30-blog-post-2.md)
+* [Education and Memorialisation for Disaster Justice: Webinar](https://wonyongpark89.github.io/posts/2024/01/education-and-memorialisation/)
