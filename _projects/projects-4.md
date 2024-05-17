@@ -7,7 +7,7 @@ collection: projects
 This project brought together disaster researchers, educators, survivors and bereaved families from the UK and South Korea to facilitate dialogues about disaster education.
 
 ## Funder <br/>
-Economic and Social Research Council
+* Economic and Social Research Council
 
 ## Team <br/>
 * **Wonyong Park**, University of Southampton (Principal Investigator) <br/>
@@ -31,5 +31,5 @@ Economic and Social Research Council
 ## Presentations <br/>
 
 ## Links <br/>
-[Disaster Education for a Just and Resilient Future: An International Conference](https://sites.google.com/view/disastereducation/)
-[Education and Memorialisation for Disaster Justice: Webinar](_posts/2024-01-30-blog-post-2.md)
+* [Disaster Education for a Just and Resilient Future: An International Conference](https://sites.google.com/view/disastereducation/)
+* [Education and Memorialisation for Disaster Justice: Webinar](_posts/2024-01-30-blog-post-2.md)

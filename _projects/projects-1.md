@@ -7,18 +7,19 @@ collection: projects
 The project combines disaster justice education and community-based participatory research methods to create a space for collaborative learning and identify educational needs and priorities. <br/>
 
 ## Funder
-Research England
+* Research England
 
 ## Team
 * **Wonyong Park**, University of Southampton (Principal Investigator) <br/>
 * **Nigel Fancourt**, University of Oxford (Co-Investigator) <br/>
 * **Hanan Wahabi**, Grenfell Tower Memorial Commission (Co-Investigator) <br/>
 * **Arzhia Habibi**, University of Oxford (Research Assistant) <br/>
+* **Ruaa Al Rubaye**, University of Southampton (Summer Intern) <br/>
 
 ## Partners 
-* The Grenfell Foundation
-* Grenfell United
-* Grenfell Tower Memorial Commission
+* [The Grenfell Foundation](https://www.grenfellfoundation.org.uk/)
+* [Grenfell United](https://grenfellunited.org.uk/)
+* [Grenfell Tower Memorial Commission](https://www.grenfelltowermemorial.co.uk/)
 
 ## Research Questions
 * What does Grenfell mean to the survivors, bereaved families and residents, including young people?
@@ -35,5 +36,5 @@ Research England
 * Park, W., Fancourt, N., & Habibi, A. (2024, September). Learning from Grenfell: Centering the disaster-affected community to promote education for social justice. British Educational Research Association (BERA) Annual Meeting, Manchester, UK.
 
 ## Links
-[The Grenfell Curriculum (Twitter)](https://x.com/teachgrenfell)
-[GTMC Final Report](_posts/2023-11-05-blog-post-1.md)
+* [The Grenfell Curriculum (Twitter)](https://x.com/teachgrenfell)
+* [GTMC Final Report](_posts/2023-11-05-blog-post-1.md)

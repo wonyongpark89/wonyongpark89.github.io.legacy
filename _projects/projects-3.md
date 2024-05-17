@@ -7,12 +7,13 @@ collection: projects
 Focusing on the integration of formal and informal education in the context of teaching local history of RMS Titanic, this project worked with history and science teachers, pupils (Key Stage 3; age 11-14) and museum educators to develop and pilot a curriculum unit focused on the history of Titanic and Southampton.
 
 ## Funder <br/>
-University of Southampton, Higher Education Innovation Fund
+* University of Southampton, Higher Education Innovation Fund
 
 ## Team <br/>
 * **Wonyong Park**, University of Southampton (Principal Investigator) <br/>
 * **Neta Shaby**, University of Southampton (Co-Investigator) <br/>
 * **Rachele Newman**, University of Southampton (Co-Investigator) <br/>
+* **Tilly Scotthorne**, University of Southampton (Research Assistant) <br/>
 
 ## Partners  <br/>
 * The SeaCity Museum
@@ -26,4 +27,4 @@ University of Southampton, Higher Education Innovation Fund
 * Park, W., Shaby, N., & Newman, R. (accepted with minor revisions). “We often forget it was a disaster”: Cross-curricular teacher collaboration to develop a curriculum unit on the Titanic disaster. Science & Education. 
 
 ## Links <br/>
-[Remembering Titanic Project Website](https://www.remembertitanic.com/)
+* [Remembering Titanic Project Website](https://www.remembertitanic.com/)
