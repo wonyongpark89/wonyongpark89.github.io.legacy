@@ -1,7 +1,7 @@
 ---
 title: "The Grenfell Curriculum"
 excerpt: "This project builds on the concept of disaster justice to work with members of the Grenfell Tower fire community (survivors, bereaved families and residents) in London to co-construct priorities and approaches for disaster justice education for future generations. <br/><br/><img src='/images/grenfell.jpg'>"
-collection: portfolio
+collection: projects
 ---
 
 The project combines disaster justice education and community-based participatory research methods to create a space for collaborative learning and identify educational needs and priorities.
