@@ -4,7 +4,7 @@ excerpt: "This project builds on the concept of disaster justice to work with me
 collection: projects
 ---
 
-The project combines disaster justice education and community-based participatory research methods to create a space for collaborative learning and identify educational needs and priorities.
+The project combines disaster justice education and community-based participatory research methods to create a space for collaborative learning and identify educational needs and priorities. <br/> https://x.com/teachgrenfell
 
 ## Funder <br/>
 Research England
