@@ -38,4 +38,14 @@ Erduran, S., Guilfoyle, L., Park, W., Chan, J., & Fancourt, N. (2019). Argumenta
 Park, W., & Song, J. (2018). Goethe’s conception of “experiment as mediator” and implications for practical work in school science. Science & Education, 27(1–2), 39–61. <br/>
 # Book Chapters
 
+<<<<<<< HEAD
+=======
 # Practitioner and opinion pieces
+>>>>>>> a3c039f5095e3dd73d71ead3acc3e2c5e1e4e6f4
+
+# Books
+Park, W. (2025). Disaster education for social justice: A STEM-centred approach. Routledge. (under contract) <br/>
+
+# Edited Volumes
+Millar, V., Park, W., & Dillon, J. (2024). (Eds.). The science curriculum: Issues, tensions and future prospects. Special issue of International Journal of Science Education. <br/>
+Park, W., Grace, M. Hutton, C. W., & Knowles, S. G. (2024). (Eds.). Teaching and learning about disasters: Contributions from historical and social studies of science. Special issue of Science & Education. <br/>
