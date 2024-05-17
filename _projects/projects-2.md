@@ -18,5 +18,9 @@ University of Southampton, Higher Education Innovation Fund
 * The SeaCity Museum
 
 # Presentations <br/>
+* Park, W. (2023, November). From Titanic to Sewol: Science education, resilience and disaster justice. Paper presented at the Annual Meeting of the Society for Social Studies of Science (4S). Honolulu, HI, USA.
+* Park, W., Shaby, N., & Newman, R. (2024, January). Integrating science and history learning: The Remembering Titanic project. Paper presented at the Annual Conference of the Association for Science Education (ASE). Northampton, UK.
 
 # Publications <br/>
+* Park, W. (2024). Remembering Titanic: Lessons from a cross-curricular professional development project with science and history teachers. Education in Science, 294, 22–23. https://www.ase.org.uk/resources/education-in-science/issue-294/remembering-titanic 
+* Park, W., Shaby, N., & Newman, R. (accepted with minor revisions). “We often forget it was a disaster”: Cross-curricular teacher collaboration to develop a curriculum unit on the Titanic disaster. Science & Education. 
