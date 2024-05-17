@@ -19,3 +19,6 @@ National Science Foundation
 
 ## Presentations <br/>
 * Park, W., Waight, N., St. Vil, C., Miles, M., & Mozaffari, F. (2024, June). Reimagining justice-oriented science education through disaster memories: Evidence from the Buffalo Blizzard of 2022. International Society of the Learning Sciences (ISLS), Buffalo, NY, USA.
+
+## Links <br/>
+[Family Engagement to Support STEM Learning | CADRE Spotlight](https://cadrek12.org/spotlight/family-engagement-stem-learning#waight)

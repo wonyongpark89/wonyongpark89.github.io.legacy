@@ -4,7 +4,7 @@ excerpt: "This project builds on the concept of disaster justice to work with me
 collection: projects
 ---
 
-The project combines disaster justice education and community-based participatory research methods to create a space for collaborative learning and identify educational needs and priorities. <br/> https://x.com/teachgrenfell
+The project combines disaster justice education and community-based participatory research methods to create a space for collaborative learning and identify educational needs and priorities. <br/>
 
 ## Funder <br/>
 Research England
@@ -33,3 +33,6 @@ Research England
 
 ## Presentations <br/>
 * Park, W., Fancourt, N., & Habibi, A. (2024, September). Learning from Grenfell: Centering the disaster-affected community to promote education for social justice. British Educational Research Association (BERA) Annual Meeting, Manchester, UK.
+
+## Links <br/>
+[The Grenfell Curriculum (Twitter)](https://x.com/teachgrenfell)
