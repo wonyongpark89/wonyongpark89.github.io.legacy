@@ -1,6 +1,6 @@
 ---
 title: "Remembering Titanic"
-excerpt: "Focusing on the integration of formal and informal education in the context of teaching local history of RMS Titanic, this project worked with history and science teachers, pupils (Key Stage 3; age 11-14) and museum educators to develop and pilot a curriculum unit focused on the history of Titanic and Southampton. <br/><br/><img src='/images/titanic.jpg'>"
+excerpt: "Focusing on the integration of formal and informal education in the context of teaching local history of RMS Titanic, this project worked with history and science teachers, pupils (Key Stage 3; age 11-14) and museum educators to develop and pilot a curriculum unit focused on the history of Titanic and Southampton. <br/><br/><img src='/images/titanic.jpg' width='350'>"
 collection: projects
 ---
 
