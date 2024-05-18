@@ -16,7 +16,7 @@ author_profile: true
 
 ## Journal articles
 * Park, W., Shaby, N., & Newman, R. (in press). "We often forget it was a disaster": Cross-curricular teacher collaboration to develop a curriculum unit on the Titanic disaster. Science & Education. <br/>
-* Park, W., Lim, I., & Song, J. (in press). Exploring the intersection of disasters and science education with preservice science teachers through a disaster case study. Cultural Studies of Science Education. doi:10.1007/s11422-024-10225-3 <br/>
+* Park, W., Lim, I., & Song, J. (in press). [Exploring the intersection of disasters and science education with preservice science teachers through a disaster case study](https://doi.org/10.1007/s11422-024-10225-3). Cultural Studies of Science Education. <br/>
 * Brock, R., & Park, W. (in press). [Distinguishing nature of science beliefs, knowledge and understandings: Towards clarity and coherence in educational goals related to the nature of science](https://doi.org/10.1007/s11191-022-00368-6). Science & Education, 33(3), 495-516.
 * Park, W., Cullinane, A., Gandolfi, H., Alameh, S., & Mesci, G. (2024). [Innovations, challenges and future directions in nature of science research: Reflections from early career academics](https://doi.org/10.1007/s11165-023-10102-z). Research in Science Education, 54(1), 27-48. <br/>
 * Ha, H., Park, W., & Song, J. (2023). [Preservice elementary teachers’ socioscientific reasoning during a decision-making activity in the context of COVID-19](https://doi.org/10.1007/s11191-022-00359-7). Science & Education, 32(6), 1869-1886. <br/>
@@ -38,6 +38,7 @@ author_profile: true
 * Park, W., & Song, J. (2018). [Goethe’s conception of “experiment as mediator” and implications for practical work in school science](https://doi.org/10.1007/s11191-018-9965-z). Science & Education, 27(1–2), 39–61. <br/>
 
 ## Book chapters
+* Park, W., Chun, J., & Ji, H. (in press). Why did the Fukushima nuclear accident happen, and how did it affect people?. In D. Steele & A. K. Mercier (Eds.), Justice-oriented anchoring phenomena. Springer.
 * Erduran, S., Guilfoyle, L., & Park, W. (2024). [Broadening STEM education through cross-curricular collaboration: The case of argumentation in science and religious education.](https://doi.org/10.1007/978-3-031-52924-5_12) In Y. Li, Z. Zeng & N. Song (Eds.), Disciplinary and Iiterdisciplinary education in STEM: Changes and innovations (pp. 241-264). Springer.
 * Erduran, S, & Park, W. (2023). [A systemic approach to the integration of Big Science in science education](https://doi.org/10.1088/978-0-7503-3631-4ch42). In P. Charitos, T. Arabatzis, H. Cliff, G. Dissertori, J. Forneris & J. Li-Ying (Eds.), Big Science in the 21st century: Economic and social impacts. IOP Publishing. 
 * Erduran, S., & Park, W. (2023). [Argumentation in physics education: Recent trends and key themes](https://doi.org/10.1063/9780735425477_016). In M. F. Taşar & P. Heron (Eds.), International handbook of physics education research. AIP Publishing. 
