@@ -63,10 +63,10 @@ author_profile: true
 
 - **Park, W.** (2023, November). From Titanic to Sewol: Science education, resilience and disaster justice. Paper presented at the Annual Meeting of the Society for Social Studies of Science (4S). Honolulu, HI, USA.
 
-- **Park, W., **Shaby, N., & Newman, R. (2024, January). Integrating science and history learning: The Remembering Titanic project. Paper presented at the Annual Conference of the Association for Science Education (ASE). Northampton, UK.
+- **Park, W.,** Shaby, N., & Newman, R. (2024, January). Integrating science and history learning: The Remembering Titanic project. Paper presented at the Annual Conference of the Association for Science Education (ASE). Northampton, UK.
 
 - **Park, W.** (2024, March). Interaction of history and STEM learning goals in teacher-developed curriculum materials. Paper presented at the Annual Meeting of National Association for Research in Science Teaching (NARST), Denver, CO, USA.
 
 - **Park, W.,** Waight, N., St. Vil, C., Miles, M., & Mozaffari, F. (2024, June). Reimagining justice-oriented science education through disaster memories: Evidence from the Buffalo Blizzard of 2022. Paper presented at the Annual Meeting of International Society of the Learning Sciences (ISLS), Buffalo, NY, USA.
 
-- **Park, W.**, Fancourt, N., & Habibi, A. (2024, September). Learning from Grenfell: Centering the disaster-affected community to promote education for social justice. Paper presented at the British Educational Research Association (BERA) Annual Meeting, Manchester, UK.
+- **Park, W.**, Fancourt, N., & Habibi, A. (2024, September). Learning from Grenfell: Centering the disaster-affected community to promote education for social justice. Paper presented at the British Educational Research Association (BERA) Annual Meeting, Manchester, UK. (Shortlisted for Social Justice SIG Best Presentation Award)
