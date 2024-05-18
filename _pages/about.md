@@ -15,5 +15,5 @@ My research focuses on the intersections of science, humanities and society in e
 # My background
 I grew up in an industrial coastal city in South Korea. After completing my undergraduate degree and teacher training in physics education, I obtained an MSc in science education, both from [Seoul National University](https://en.snu.ac.kr/). I taught in secondary schools in Seoul. I then moved to the UK to complete a DPhil in Science Education at the [Department of Education, University of Oxford](https://www.education.ox.ac.uk/), from 2018 to 2021. For my [doctoral project](https://ora.ox.ac.uk/objects/uuid:f117fbd8-6e07-456a-b6ad-92ff74b28d0a), I looked at how three high school science teachers assessed students' knowledge of the nature of science in their classrooms.
 
-# PhD application
+# Study with me
 I am keen to hear from prospective PhD students interested in science education and my other areas of research. I do **not** supervise PhDs outside of my expertise. For more information about PhD application, see [this page](https://www.southampton.ac.uk/study/postgraduate-research/education).
