@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer (Assistant Professor) in [Southampton Education School, University of Southampton](https://www.southampton.ac.uk/about/faculties-schools-departments/southampton-education-school). I serve as a Deputy Chair of the Research Ethics Committee at the Faculty of Social Sciences, and the Ethics Champion for Southampton Education School. </br>
+I am a Lecturer (Assistant Professor) in [Southampton Education School, University of Southampton](https://www.southampton.ac.uk/about/faculties-schools-departments/southampton-education-school). I serve as a Deputy Chair of the Research Ethics Committee at the Faculty of Social Sciences, and the Ethics Champion for Southampton Education School.
 
 My other roles include Associate Editor of [Research in Science Education](https://link.springer.com/journal/11165), Guest Editor of [International Journal of Science Education](https://www.tandfonline.com/journals/tsed20) and [Science & Education](https://link.springer.com/journal/11191), Editorial Board Member of [Journal of Research in Science Teaching](https://onlinelibrary.wiley.com/journal/10982736) and [Journal of Science Teacher Education](https://www.tandfonline.com/journals/uste20). I also co-chair Strand 6 (Interdisciplinarity and Education) of the [European Science Education Research Association](https://www.esera.org/).
 
