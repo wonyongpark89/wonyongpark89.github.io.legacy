@@ -1,10 +1,10 @@
 ---
 title: "Climate Justice Education for Buffalo"
-excerpt: "This project responds to the deadly blizzard that hit Buffalo, NY in 2022. We are working with families and teachers in Buffalo to set priorities for climate justice education, drawing on the experience of the blizzard <br/><br/><img src='/images/buffalo.jpeg' width='350'>"
+excerpt: "This project is an educational response to the deadly blizzard that hit Buffalo, NY in 2022. We are working with families and teachers in Buffalo to set priorities for climate justice education, drawing on the experience of the blizzard <br/><br/><img src='/images/buffalo.jpeg' width='400'>"
 collection: projects
 ---
 
-This project responds to the deadly blizzard that hit Buffalo, NY in 2022. We are working with families and teachers in Buffalo to set priorities for climate justice education, drawing on the experience of the blizzard.
+This project is an educational response to the deadly blizzard that hit Buffalo, NY in 2022. We are working with families and teachers in Buffalo to set priorities for climate justice education, drawing on the experience of the blizzard.
 
 ## Funder <br/>
 * National Science Foundation
