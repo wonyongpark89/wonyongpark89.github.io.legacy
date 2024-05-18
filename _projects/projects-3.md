@@ -16,7 +16,7 @@ Focusing on the integration of formal and informal education in the context of t
 * **Tilly Scotthorne**, University of Southampton (Research Assistant) <br/>
 
 ## Partners  <br/>
-* The SeaCity Museum
+* [The SeaCity Museum](https://seacitymuseum.co.uk/)
 
 ## Presentations <br/>
 * Park, W. (2023, November). From Titanic to Sewol: Science education, resilience and disaster justice. Society for Social Studies of Science (4S). Honolulu, HI, USA.
@@ -24,7 +24,7 @@ Focusing on the integration of formal and informal education in the context of t
 
 ## Publications <br/>
 * Park, W. (2024). [Remembering Titanic: Lessons from a cross-curricular professional development project with science and history teachers](https://www.ase.org.uk/resources/education-in-science/issue-294/remembering-titanic). Education in Science, 294, 22–23.  
-* Park, W., Shaby, N., & Newman, R. (accepted with minor revisions). “We often forget it was a disaster”: Cross-curricular teacher collaboration to develop a curriculum unit on the Titanic disaster. Science & Education. 
+* Park, W., Shaby, N., & Newman, R. (accepted). “We often forget it was a disaster”: Cross-curricular teacher collaboration to develop a curriculum unit on the Titanic disaster. Science & Education. 
 
 ## Links <br/>
 * [Remembering Titanic Project Website](https://www.remembertitanic.com/)
