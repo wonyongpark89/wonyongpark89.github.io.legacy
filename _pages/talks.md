@@ -7,7 +7,7 @@ author_profile: true
 
 ## Invited talks
 
-- Korea National University of Education, Department of Chemistry Education. April 2019.
+- 🇧🇷 Korea National University of Education, Department of Chemistry Education. April 2019.
 
 - Ewha Womans University, Research Centre for Hazard Literacy Education (Hazard Literacy Seminar Series). November 2021.
 
