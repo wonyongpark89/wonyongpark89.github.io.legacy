@@ -45,11 +45,15 @@ author_profile: true
 
 - University at Buffalo. Department of Learning and Instruction, Graduate School of Education. March 2024.
 
+- 4.16 Institute of Democratic Citizenship Education. (Making a Living Archive Conference & Disaster Haggyo #2024). April 2024.
+
 - University College London, Institute of Education (Reimagining Disaster Education: Perspectives and Methodologies). May 2024.
 
 - University of Southampton, Southampton Education School, UK-Taiwan ESRC Networking Conference. June 2024.
 
 - University of York, Science Education Group ("Science Beyond the Boundaries" Seminar). June 2024.
+
+- University of Tartu, Institute of Ecology and Earth Science Centre for Science Education (ESERA Summer School 2024). August 2024.
 
 ## Conference presentations
 
