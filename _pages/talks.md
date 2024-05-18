@@ -5,6 +5,54 @@ permalink: /talks/
 author_profile: true
 ---
 
+## Invited talks
+
+- Korea National University of Education, Department of Chemistry Education. April 2019.
+
+- Ewha Womans University, Research Centre for Hazard Literacy Education (Hazard Literacy Seminar Series). November 2021.
+
+- Seoul National University, Department of Physics Education (Departmental Colloquium). December 2021.
+
+- University of Southampton, Southampton Education School (Education Research Seminar Series). March 2022.
+
+- CERN, Physics Education Research Group (IMPRESS: International Modern Physics & Research in Education Seminar Series). April 2022.
+
+- University of Groningen, Institute for Science Education and Communication. June 2022.
+
+- Institute of Physics & University of Birmingham. (Physics for Everyone: Physics Updates, Inclusion and Education Research Conference). June 2022.
+
+- Korea Advanced Institute of Science and Technology, Graduate School of Science and Technology Policy (Disaster Haggyo #1). August 2022.
+
+- Seoul National University, Department of Science Studies (Social Issues in Science, Technology, Innovation and Medicine). September 2022.
+
+- King's College London, Centre for Research in Education in Science, Technology, Engineering and Mathematics (CRESTEM Seminar Series). May 2023.
+
+- Ministry of Eco Education & University of Southampton (Climate Teacher Regional Gathering). May 2023.
+
+- University College London, Institute of Education (Reimagining Disaster Education: Perspectives and Methodologies). May 2023.
+
+- University of Oxford, Oxford University Korea Society (Oxford Summit of Koreans in Academia 2023). June 2023.
+
+- Hiroshima University, Graduate School of Humanities and Social Studies. August 2023.
+
+- Chuncheon National University of Education. Department of Science Education. August 2023.
+
+- Seoul Women's University, School of Liberal Education. September 2023.
+
+- Seoul National University, Department of Physics Education. October 2023.
+
+- Korea Advanced Institute of Science and Technology, Graduate School of Science and Technology Policy. November 2023.
+
+- University at Buffalo. Department of Learning and Instruction, Graduate School of Education. March 2024.
+
+- University College London, Institute of Education (Reimagining Disaster Education: Perspectives and Methodologies). May 2024.
+
+- University of Southampton, Southampton Education School, UK-Taiwan ESRC Networking Conference. June 2024.
+
+- University of York, Science Education Group ("Science Beyond the Boundaries" Seminar). June 2024.
+
+## Conference presentations
+
 - **Park, W.**, Park. J., & Song, J. (2016, January). Goethe's color theory: The subjective side of science and science education. Paper presented at the Annual International Conference of the Korea Association of Science Education (KASE), Daegu, Korea. 
 
 - **Park, W.**, Park. J., & Song, J. (2016, August). Goethe's *Theory of Colours* (1810) and its implications for science education. Paper presented at the East-Asian Science Education (EASE) International Conference, Tokyo, Japan. 
