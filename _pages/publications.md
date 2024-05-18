@@ -9,18 +9,18 @@ author_profile: true
 > Some of my publications are paywalled. Send me an email if you'd like a copy. <br/>
 
 ## Books
-* Park, W. (2025). Disaster education for social justice: A STEM-centred approach. Routledge. (under contract) <br/>
+- Park, W. (2025). Disaster education for social justice: A STEM-centred approach. Routledge. (under contract) <br/>
 
 ## Edited volumes
-* Millar, V., Park, W., & Dillon, J. (2024). (Eds.). The science curriculum: Issues, tensions and future prospects. Special issue of International Journal of Science Education. <br/>
-* Park, W., Grace, M. Hutton, C. W., & Knowles, S. G. (2024). (Eds.). Teaching and learning about disasters: Contributions from historical and social studies of science. Special issue of Science & Education.
+- Millar, V., Park, W., & Dillon, J. (2024). (Eds.). The science curriculum: Issues, tensions and future prospects. Special issue of International Journal of Science Education. <br/>
+- Park, W., Grace, M. Hutton, C. W., & Knowles, S. G. (2024). (Eds.). Teaching and learning about disasters: Contributions from historical and social studies of science. Special issue of Science & Education.
 
 ## Journal articles
-* Park, W., Shaby, N., & Newman, R. (in press). "We often forget it was a disaster": Cross-curricular teacher collaboration to develop a curriculum unit on the Titanic disaster. Science & Education. <br/>
-* Park, W., Lim, I., & Song, J. (in press). [Exploring the intersection of disasters and science education with preservice science teachers through a disaster case study](https://doi.org/10.1007/s11422-024-10225-3). Cultural Studies of Science Education. <br/>
-* Brock, R., & Park, W. (in press). [Distinguishing nature of science beliefs, knowledge and understandings: Towards clarity and coherence in educational goals related to the nature of science](https://doi.org/10.1007/s11191-022-00368-6). Science & Education, 33(3), 495-516.
-* Park, W., Cullinane, A., Gandolfi, H., Alameh, S., & Mesci, G. (2024). [Innovations, challenges and future directions in nature of science research: Reflections from early career academics](https://doi.org/10.1007/s11165-023-10102-z). Research in Science Education, 54(1), 27-48. <br/>
-* Ha, H., Park, W., & Song, J. (2023). [Preservice elementary teachers’ socioscientific reasoning during a decision-making activity in the context of COVID-19](https://doi.org/10.1007/s11191-022-00359-7). Science & Education, 32(6), 1869-1886. <br/>
+- Park, W., Shaby, N., & Newman, R. (in press). "We often forget it was a disaster": Cross-curricular teacher collaboration to develop a curriculum unit on the Titanic disaster. Science & Education. <br/>
+- Park, W., Lim, I., & Song, J. (in press). [Exploring the intersection of disasters and science education with preservice science teachers through a disaster case study](https://doi.org/10.1007/s11422-024-10225-3). Cultural Studies of Science Education. <br/>
+- Brock, R., & Park, W. (in press). [Distinguishing nature of science beliefs, knowledge and understandings: Towards clarity and coherence in educational goals related to the nature of science](https://doi.org/10.1007/s11191-022-00368-6). Science & Education, 33(3), 495-516.
+- Park, W., Cullinane, A., Gandolfi, H., Alameh, S., & Mesci, G. (2024). [Innovations, challenges and future directions in nature of science research: Reflections from early career academics](https://doi.org/10.1007/s11165-023-10102-z). Research in Science Education, 54(1), 27-48. <br/>
+- Ha, H., Park, W., & Song, J. (2023). [Preservice elementary teachers’ socioscientific reasoning during a decision-making activity in the context of COVID-19](https://doi.org/10.1007/s11191-022-00359-7). Science & Education, 32(6), 1869-1886. <br/>
 * Park, W., Lee, H., Ko, Y., & Lee, H. (2023). ["Safety" and "integration": Examining the introduction of disaster in the science curriculum in South Korea](https://doi.org/10.1080/00220272.2023.2239887). Journal of Curriculum Studies, 55(5), 580-597. <br/>
 * Park, W., Erduran, S., Song, J., & Kim, M. (2023). ["It's a lesson with no correct answer": Design issues in preservice teachers’ collaborative lesson planning using history of science](https://doi.org/10.1080/09500693.2022.2154132). International Journal of Science Education, 45(3), 181-203. <br/>
 * Park, W., & Brock, R. (2023). [Is there a limit to resemblances? Teaching about science and pseudoscience from a family resemblance perspective](https://doi.org/10.1007/s11191-022-00394-4). Science & Education, 32(5), 1265-1286. <br/>
