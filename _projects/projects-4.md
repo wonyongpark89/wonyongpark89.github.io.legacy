@@ -4,7 +4,9 @@ excerpt: "This project brought together disaster researchers, educators, survivo
 collection: projects
 ---
 
-This project brought together disaster researchers, educators, survivors and bereaved families from the UK and South Korea to facilitate dialogues about disaster education.
+This project brought together disaster researchers, educators, survivors and bereaved families from the UK and South Korea to facilitate dialogues about disaster education. <br/>
+In January 2022, we hosted a [2-day conference](https://sites.google.com/view/disastereducation/) in Southampton with speakers, discussants and audience from the two countries. In January 2024, a [webinar on education and disaster justice](https://wonyongpark89.github.io/posts/2024/01/education-and-memorialisation/) focused on the Grenfell Tower fire, the Hillsborough disaster, and the Sewol Ferry disaster. <br/>
+In 2022, 2023 and 2024, Scott Gabriel Knowles hosted [Disaster Haggyo](https://www.disasterhaggyo.com/), an interdisciplinary, field-based summer school for the study of disasters. The project members contributed to Disaster Haggyo as instructors and participants.
 
 ## Funder <br/>
 * Economic and Social Research Council
