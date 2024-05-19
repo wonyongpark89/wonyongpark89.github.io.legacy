@@ -24,7 +24,7 @@ author_profile: true
 
 - Park, W., Lim, I., & Song, J. (in press). [Exploring the intersection of disasters and science education with preservice science teachers through a disaster case study](https://doi.org/10.1007/s11422-024-10225-3). Cultural Studies of Science Education.
 
-- Brock, R., & Park, W. (in press). [Distinguishing nature of science beliefs, knowledge and understandings: Towards clarity and coherence in educational goals related to the nature of science](https://doi.org/10.1007/s11191-022-00368-6). Science & Education, 33(3), 495-516.
+- Brock, R., & Park, W. (2024). [Distinguishing nature of science beliefs, knowledge and understandings: Towards clarity and coherence in educational goals related to the nature of science](https://doi.org/10.1007/s11191-022-00368-6). Science & Education, 33(3), 495-516.
 
 - Park, W., Cullinane, A., Gandolfi, H., Alameh, S., & Mesci, G. (2024). [Innovations, challenges and future directions in nature of science research: Reflections from early career academics](https://doi.org/10.1007/s11165-023-10102-z). Research in Science Education, 54(1), 27-48.
 
