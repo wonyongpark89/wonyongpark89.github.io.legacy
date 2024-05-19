@@ -1,5 +1,6 @@
 ---
 title: "The Grenfell Curriculum"
+permalink: /projects/grenfell/
 excerpt: "The project combines disaster justice education and community-based participatory research methods to create a space for collaborative learning and identify educational needs and priorities, in collaboration with the Grenfell Tower fire community in London. <br/><br/><img src='/images/grenfell.jpg' width='400'>"
 collection: projects
 ---

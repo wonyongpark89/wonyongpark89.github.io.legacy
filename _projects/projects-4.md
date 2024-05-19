@@ -1,5 +1,6 @@
 ---
 title: "Networking for Disaster Education Research"
+permalink: /projects/teachdisasters/
 excerpt: "This project brought together disaster researchers, educators, survivors and bereaved families from the UK and South Korea to facilitate dialogues about disaster education. <br/><br/><img src='/images/disaster.jpg' width='400'>"
 collection: projects
 ---
