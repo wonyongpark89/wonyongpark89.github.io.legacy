@@ -9,7 +9,7 @@ This project is an educational response to the deadly blizzard that hit Buffalo,
 We have interviewed families, science teachers and community leaders in Buffalo to understand their experiences of the 2022 blizzard, which can inform how we teach about climate in Buffalo and beyond. In the second phase of the project (May to September 2024), we are hosting two meetings with community members to gather ideas for a framework for climate justice education. <br/>
 
 ## Funder <br/>
-* National Science Foundation
+* National Science Foundation (2023-2024)
 
 ## Team <br/>
 * **Noemi Waight**, University at Buffalo (Principal Investigator) <br/>

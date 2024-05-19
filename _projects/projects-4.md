@@ -11,7 +11,7 @@ In January 2022, we hosted a [2-day conference](https://sites.google.com/view/di
 In 2022, 2023 and 2024, Scott Gabriel Knowles hosted [Disaster Haggyo](https://www.disasterhaggyo.com/), an interdisciplinary, field-based summer school for the study of disasters. The project members contributed to Disaster Haggyo as instructors and participants.
 
 ## Funder <br/>
-* Economic and Social Research Council
+* Economic and Social Research Council (2022-2023)
 
 ## Team <br/>
 * **Wonyong Park**, University of Southampton (Principal Investigator) <br/>

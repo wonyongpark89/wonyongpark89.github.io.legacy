@@ -7,7 +7,7 @@ collection: projects
 Focusing on the integration of formal and informal education in the context of teaching local history of RMS Titanic, this project worked with history and science teachers and museum educators to develop and pilot a curriculum unit focused on the history of Titanic and Southampton.
 
 ## Funder <br/>
-* University of Southampton, Higher Education Innovation Fund
+* University of Southampton, Higher Education Innovation Fund (2022-2023)
 
 ## Team <br/>
 * **Wonyong Park**, University of Southampton (Principal Investigator) <br/>
