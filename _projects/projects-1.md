@@ -7,7 +7,7 @@ collection: projects
 
 The project combines disaster justice education and community-based participatory research methods to create a space for collaborative learning and identify educational needs and priorities, in collaboration with the Grenfell Tower fire community in London. <br/>
 
-Since January 2024, we have been interviewing members of the Grenfell community across generations, as well as people who support the families with health and education. We are also collecting existing lessons and educational initiatives about Grenfell from across the UK. We are organising 'Grenfell Education Meetings' with different groups of the community (survivors and bereaved, teachers, young adults and children) to discuss how education can contribute to justice after Grenfell. <br/>
+Since January 2024, we have interviewed members of the Grenfell community across generations, as well as people who support the families with health and education. We are also collecting existing lessons and educational initiatives about Grenfell from across the UK. We convened four 'Grenfell Education Meetings' with different groups of the community (survivors and bereaved, teachers, young adults and children) to discuss how education can contribute to justice after Grenfell. <br/>
 
 ## Funder
 * Research England (2023-2024)
@@ -42,3 +42,8 @@ Since January 2024, we have been interviewing members of the Grenfell community 
 * [The Grenfell Curriculum (Twitter)](https://x.com/teachgrenfell)
 * [GTMC Final Report](https://wonyongpark89.github.io/posts/2023/11/gtmc-final-report/)
 * [Education and memorialisation for disaster justice webinar](https://wonyongpark89.github.io/posts/2024/01/education-and-memorialisation/)
+
+## Pictures
+<img src='/images/gem1.jpeg'>
+<img src='/images/gem2.jpeg'>
+<img src='/images/gem3.jpeg'>
