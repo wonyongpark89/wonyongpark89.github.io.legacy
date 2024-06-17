@@ -42,7 +42,7 @@ Since January 2024, we have interviewed members of the Grenfell community across
 * [The Grenfell Curriculum (Twitter)](https://x.com/teachgrenfell)
 * [GTMC Final Report](https://wonyongpark89.github.io/posts/2023/11/gtmc-final-report/)
 * [Education and Memorialisation for Disaster Justice Webinar](https://wonyongpark89.github.io/posts/2024/01/education-and-memorialisation/)
-* [Grenfell Education Meeting: Slide Deck](/files/gemslides.pptx)
+* [Grenfell Education Meeting: Slide Deck](/files/gemslides.pdf)
 
 ## Pictures
 <img src='/images/gem1.jpeg'>
