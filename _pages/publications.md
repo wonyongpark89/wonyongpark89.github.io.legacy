@@ -40,7 +40,6 @@ author_profile: true
 
 - Park, W., Cho, H. (2022). [The interaction of history and STEM learning goals in teacher-developed curriculum materials: Opportunities and challenges for STEAM education](https://doi.org/10.1007/s12564-022-09741-0). Asia Pacific Education Review, 23(3), 457-474.
 
-
 - Park, W., Erduran, S., & Guilfoyle, L. (2022). [Secondary teachers’ instructional practices on argumentation in the context of science and religious education](https://doi.org/10.1080/09500693.2022.2074565). International Journal of Science Education, 44(8), 1251-1276.
 
 - Erduran, S., Guilfoyle, L., & Park, W. (2022). [Science and religious education teachers’ perceptions of argumentation and its teaching](https://doi.org/10.1007/s11165-020-09966-2). Research in Science Education, 52(2), 655-673,
@@ -65,6 +64,8 @@ author_profile: true
 
 ## Book chapters
 - Park, W., Chun, J., & Ji, H. (in press). Why did the Fukushima nuclear accident happen, and how did it affect people?. In D. Steele & A. K. Mercier (Eds.), Justice-oriented anchoring phenomena. Springer.
+
+- Skilling, K., & Park, W. (in press). STEM in a changing world: “Insider” and “outsider” perspectives. In L. English & T. Lehmann (Eds.), Developing students’ STEM problem solving skills. Routledge. 
 
 - Erduran, S., Guilfoyle, L., & Park, W. (2024). [Broadening STEM education through cross-curricular collaboration: The case of argumentation in science and religious education.](https://doi.org/10.1007/978-3-031-52924-5_12) In Y. Li, Z. Zeng & N. Song (Eds.), Disciplinary and Iiterdisciplinary education in STEM: Changes and innovations (pp. 241-264). Springer.
 
