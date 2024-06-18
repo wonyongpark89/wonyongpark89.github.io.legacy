@@ -38,7 +38,7 @@ author_profile: true
 
 - Cho, H-J., Jo, J.-H., Choi, N., Choi, J., & Park, W. (2022). [Environmental themes and ecosystem services in picture books about forests for sustainability education](https://doi.org/10.1080/09500693.2022.2154132). Journal of Forest Research, 27(6), 419-428.
 
-- Park, W., Cho, H. (2022). [The interaction of history and STEM learning goals in teacher-developed curriculum materials: Opportunities and challenges for STEAM education](https://doi.org/10.1007/s12564-022-09741-0). Asia Pacific Education Review, 23(3), 457-474.
+- Park, W., & Cho, H. (2022). [The interaction of history and STEM learning goals in teacher-developed curriculum materials: Opportunities and challenges for STEAM education](https://doi.org/10.1007/s12564-022-09741-0). Asia Pacific Education Review, 23(3), 457-474.
 
 - Park, W., Erduran, S., & Guilfoyle, L. (2022). [Secondary teachers’ instructional practices on argumentation in the context of science and religious education](https://doi.org/10.1080/09500693.2022.2074565). International Journal of Science Education, 44(8), 1251-1276.
 
