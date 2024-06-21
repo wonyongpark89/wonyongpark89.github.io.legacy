@@ -53,6 +53,6 @@ Since January 2024, we have interviewed members of the Grenfell community across
 
 ## Feedback from Community
 
-> "I thought the meeting was very helpful and comforting as we were heard and able to express our thought, view's and feelings on this sensitive topic, I am extremely grateful to work alongside the team and looking forward to continue working together and making further change."
+> "I thought the meeting was very helpful and comforting as we were heard and able to express our thought, view's and feelings on this sensitive topic, I am extremely grateful to work alongside the team and looking forward to continue working together and making further change." (Young Person)
 
-> "This meeting was great as you had a chance to hear directly from Survivors and Bereaved about their views ans thoughts on what should be included in the curriculum as well as having the views of the teachers and the north Kensington community. This is part of the Grenfell legacy that we want our children to learn about when they grew up."
+> "This meeting was great as we had a chance to hear directly from Survivors and Bereaved about their views and thoughts on what should be included in the curriculum as well as having the views of the teachers and the North Kensington community. This is part of the Grenfell legacy that we want our children to learn about when they grew up." (Bereaved & Survivor)
