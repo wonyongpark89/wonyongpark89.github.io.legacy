@@ -1,7 +1,7 @@
 ---
 title: "Climate Justice Education for Buffalo"
 permalink: /projects/buffalo/
-excerpt: "This project is an educational response to the deadly blizzard that hit Buffalo, NY in 2022. We are working with families and teachers in Buffalo to set priorities for climate justice education, drawing on the experience of the blizzard <br/><br/><img src='/images/buffalo.jpeg' width='400'>"
+excerpt: "This project is an educational response to the deadly blizzard that hit Buffalo, NY in 2022. We are working with families and teachers in Buffalo to set priorities for climate justice education, drawing on the experience of the blizzard <br/><br/><img src='/images/buffalo.jpg' width='400'>"
 collection: projects
 ---
 
