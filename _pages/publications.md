@@ -83,7 +83,7 @@ author_profile: true
 
 - Park, W., Miani, L., & Levrini, O. (2024). [Disasters in the classroom: Lessons on talking to students about extreme climate events](https://www.preventionweb.net/drr-community-voices/disasters-classroom-lessons-talking-students-about-extreme-climate-events). UNDRR PreventionWeb.
 
-- Park, W. (2024). [Remembering Titanic: Lessons from a cross-curricular professional development project with science and history teachers](https://www.ase.org.uk/resources/education-in-science/issue-294/remembering-titanic). Education in Science, 294, 22-23.
+- Park, W. (2024). [Remembering Titanic: Lessons from a cross-curricular professional development project with science and history teachers](/files/eistitanic.pdf). Education in Science, 294, 22-23.
 
 - Park, W. (2023). [Computing education in the United Kingdom](https://www.sciencetimes.co.kr/news/%EC%98%81%EA%B5%AD%EC%9D%98-%EC%BB%B4%ED%93%A8%ED%8C%85-%EA%B5%90%EC%9C%A1-1/). Science Times. (written in Korean)
 
