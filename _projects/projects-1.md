@@ -5,9 +5,11 @@ excerpt: "The project combines disaster justice education and community-based pa
 collection: projects
 ---
 
-The project combines disaster justice education and community-based participatory research methods to create a space for collaborative learning and identify educational needs and priorities, in collaboration with the Grenfell Tower fire community in London. <br/>
+<img src='/images/grenfell.jpg'>
 
-Since January 2024, we have interviewed members of the Grenfell community across generations, as well as people who support the families with health and education. We are also collecting existing lessons and educational initiatives about Grenfell from across the UK. We convened four 'Grenfell Education Meetings' with different groups of the community (survivors and bereaved, teachers, young adults and children) to discuss how education can contribute to justice after Grenfell. <br/>
+The project combines disaster justice education and community-engaged participatory research methods to create a space for collaborative learning and identify educational needs and priorities, in collaboration with the Grenfell Tower fire community in London. <br/>
+
+We interviewed members of the Grenfell community, as well as teachers in North Kensington and Grenfell activists. We are also collecting existing lessons and educational initiatives about Grenfell from across the UK. We convened four 'Grenfell Education Meetings' with different groups of the community (survivors and bereaved, teachers, young adults and children) to reimagine education for social justice after Grenfell. <br/>
 
 ## Funder
 * Research England (2023-2024)
@@ -29,9 +31,9 @@ Since January 2024, we have interviewed members of the Grenfell community across
 * What should we teach young people about the Grenfell disaster, and how can we do this?
 
 ## Objectives 
-* To understand the community’s experiences, views, emotions and hopes related to Grenfell
-* To develop a set of priorities and approaches for disaster justice education in the context of Grenfell
-* To produce actionable policy recommendations for disaster justice education in the context of Grenfell
+* Understand the community’s experiences, views, emotions and hopes related to Grenfell
+* Develop a set of priorities and approaches for disaster justice education in the context of Grenfell
+* Produce actionable policy recommendations for disaster justice education in the context of Grenfell
 
 ## Publications
 

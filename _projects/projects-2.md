@@ -5,6 +5,8 @@ excerpt: "This project is an educational response to the deadly blizzard that hi
 collection: projects
 ---
 
+<img src='/images/buffalo.jpg'>
+
 This project is an educational response to the deadly blizzard that hit Buffalo, NY in 2022. We worked with families and teachers in Buffalo to set priorities for climate justice education, drawing on the experience of the blizzard. <br/>
 
 We have interviewed 26 families, science teachers and community leaders in Buffalo to understand their experiences and memories of the 2022 blizzard, which can inform how we teach about climate in Buffalo and beyond. In the second phase of the project (May to September 2024), we hosted two meetings with community members to co-develop ideas for a culturally relevant curriculum framework for climate justice education. <br/>
@@ -28,4 +30,4 @@ We have interviewed 26 families, science teachers and community leaders in Buffa
 
 ## Links
 * [Family Engagement to Support STEM Learning - CADRE Spotlight](https://cadrek12.org/spotlight/family-engagement-stem-learning#waight)
-* [Project Presentation at ISLS2024: Slide Deck](/files/isls2024.pdf)
+* [Presentation at ISLS2024](/files/isls2024.pdf)
