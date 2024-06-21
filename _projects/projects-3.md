@@ -22,6 +22,7 @@ Focusing on the integration of formal and informal education in the context of t
 ## Presentations <br/>
 * Park, W. (2023, November). From Titanic to Sewol: Science education, resilience and disaster justice. Society for Social Studies of Science (4S). Honolulu, HI, USA.
 * Park, W., Shaby, N., & Newman, R. (2024, January). Integrating science and history learning: The Remembering Titanic project. Association for Science Education (ASE). Northampton, UK.
+* Park W. (2024, June). Using community history as a vehicle for cross-curricular teacher development: The Remembering Titanic project. Co-Designing Instruction for Innovative Education: The Power of Educator–Academic Partnerships Towards Societal Change. University of Southampton.
 
 ## Publications <br/>
 * Park, W. (2024). [Remembering Titanic: Lessons from a cross-curricular professional development project with science and history teachers](https://www.ase.org.uk/resources/education-in-science/issue-294/remembering-titanic). Education in Science, 294, 22–23.  
