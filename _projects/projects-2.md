@@ -7,9 +7,13 @@ collection: projects
 
 <img src='/images/buffalo.jpg'>
 
-This project is an educational response to the deadly blizzard that hit Buffalo, NY in 2022. We worked with families and teachers in Buffalo to set priorities for climate justice education, drawing on the experience of the blizzard. <br/>
+This project is an educational response to the deadly blizzard that hit Buffalo, NY in 2022. We worked with families and teachers in Buffalo to set priorities for climate justice education, drawing on the experience of the blizzard. The project asks, "How can we disrupt the 'natural disaster' narrative about climate disasters through justice-oriented science education based on community knowledge?" <br/>
 
-We have interviewed 26 families, science teachers and community leaders in Buffalo to understand their experiences and memories of the 2022 blizzard, which can inform how we teach about climate in Buffalo and beyond. In the second phase of the project (May to September 2024), we hosted two meetings with community members to co-develop ideas for a culturally relevant curriculum framework for climate justice education. <br/>
+Buffalo-Niagara is one of the most racially segregated metropolitan regions in the U.S. White people are overrepresented in the suburbs and above-average opportunity areas, while Black and Hispanic people are overrepresented in the city of Buffalo. Buffalo is a prime example of a Rust Belt city which grew rapidly during the manufacturing boom and then declined as industry shrank and jobs moved to elsewhere. The roots of the current racial segregation can be traced back to World War I when African Americans moved from the South in search of jobs in the Rust Belt. In the 1930s, housing policies and redlining accelerated the segregation by defining neighborhood composition and preventing mobility. <br/>
+
+In December 2022, Buffalo was hit by hurricane-force winds reaching up to 80 miles per hour during the Christmas season, leading to whiteout conditions, 15-foot-high snowdrifts, and wind chill temperatures plunging to 30 degrees below zero Fahrenheit. This blizzard, the longest ever recorded below 5,000 feet of elevation in continental U.S. history, caused significant disruption. It resulted in 46 deaths in Erie County, including 31 in Buffalo, and severely impacted the city's infrastructure, businesses, and numerous residential areas. Of the 31 people who died in Buffalo, 20 were people of color, which was disproportionate for the demographics of the city. <br/>
+
+Between October 2023 and June 2024, 26 interviews were conducted with families, community leaders and science teachers in the Buffalo-Niagara region. In June 2024, two coalition meetings were convened with 13 individuals from the community to discuss the experiences of the Blizzard as well as the social justice and education issues related to the winter weather in the region. <br/>
 
 ## Funder
 * National Science Foundation (2023-2024)
