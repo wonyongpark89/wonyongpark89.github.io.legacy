@@ -9,7 +9,9 @@ collection: projects
 
 The project combines disaster justice education and community-engaged participatory research methods to create a space for collaborative learning and identify educational needs and priorities, in collaboration with the Grenfell Tower fire community in London. <br/>
 
-We interviewed members of the Grenfell community, as well as teachers in North Kensington and Grenfell activists. We are also collecting existing lessons and educational initiatives about Grenfell from across the UK. We convened four 'Grenfell Education Meetings' with different groups of the community (survivors and bereaved, teachers, young adults and children) to reimagine education for social justice after Grenfell. <br/>
+The Grenfell Tower fire disaster occurred on June 14, 2017, in North Kensington, London, marking one of the most tragic events in recent British history. A fire broke out in the 24-story residential building and rapidly spread due to the flammable exterior cladding. The blaze raged for over 60 hours, resulting in the deaths of 72 people and injuring many others. Investigations revealed significant failures in social housing policy, fire safety regulations and building materials, with the state and cladding manufacturers bearing substantial responsibility for creating and perpetuating these social injustices. The project considers how we can redress such injustices and build a safe, just and disaster-resilient society through education. <br/>
+
+We interviewed members of the Grenfell community, as well as teachers in North Kensington and Grenfell activists. We also collected existing lessons and in- and out-of-school educational initiatives about Grenfell from across the UK. In June 2024, We convened four 'Grenfell Education Meetings' with the community (survivors and bereaved, teachers, young adults and children) to discuss and reimagine education for social justice after Grenfell. <br/>
 
 ## Funder
 * Research England (2023-2024)
