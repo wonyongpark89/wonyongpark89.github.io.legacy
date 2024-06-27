@@ -25,6 +25,7 @@ As an educational response to the disaster, the project asks, "How can we disrup
 * **Jennifer Tripp**, University at Buffalo (Postdoctoral Researcher) <br/>
 
 ## Publications
+- Park, W., Miani, L., & Levrini, O. (2024). [Disasters in the classroom: Lessons on talking to students about extreme climate events](https://www.preventionweb.net/drr-community-voices/disasters-classroom-lessons-talking-students-about-extreme-climate-events). UNDRR PreventionWeb.
 
 ## Presentations
 * Park, W., Waight, N., St. Vil, C., Miles, M., & Mozaffari, F. (2024, June). Reimagining justice-oriented science education through disaster memories: Evidence from the Buffalo Blizzard of 2022. International Society of the Learning Sciences (ISLS), Buffalo, NY, USA.
