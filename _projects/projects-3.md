@@ -1,32 +1,38 @@
 ---
-title: "Remembering Titanic"
-permalink: /projects/titanic/
-excerpt: "Focusing on the integration of formal and informal education in the context of teaching local history of RMS Titanic, this project worked with history and science teachers and museum educators to develop and pilot a curriculum unit focused on the history of Titanic and Southampton. <br/><br/><img src='/images/titanic.jpg' width='400'>"
+title: "Climate Justice Education for Buffalo"
+permalink: /projects/buffalo/
+excerpt: "This project is an educational response to the deadly blizzard that hit Buffalo, NY in 2022. We are working with families and teachers in Buffalo to set priorities for climate justice education, drawing on the experience of the blizzard. <br/><br/><img src='/images/buffalo.jpg' width='400'>"
 collection: projects
 ---
 
-Focusing on the integration of formal and informal education in the context of teaching local history of RMS Titanic, this project worked with history and science teachers and museum educators to develop and pilot a curriculum unit focused on the history of Titanic and Southampton.
+<img src='/images/buffalo.jpg'>
 
-## Funder <br/>
-* University of Southampton, Higher Education Innovation Fund (2022-2023)
+This project is an educational response to the deadly blizzard that hit Buffalo, NY in 2022. We worked with families and teachers in Buffalo to set priorities for climate justice education, drawing on the experience of the blizzard. <br/>
 
-## Team <br/>
-* **Wonyong Park**, University of Southampton (Principal Investigator) <br/>
-* **Neta Shaby**, University of Southampton (Co-Investigator) <br/>
-* **Rachele Newman**, University of Southampton (Co-Investigator) <br/>
-* **Tilly Scotthorne**, University of Southampton (Research Assistant) <br/>
+Buffalo-Niagara is one of the most racially segregated metropolitan regions in the U.S. White people are overrepresented in the suburbs and above-average opportunity areas, while Black and Hispanic people are overrepresented in the city of Buffalo. Buffalo is a prime example of a Rust Belt city which grew rapidly during the manufacturing boom and then declined as industry shrank and jobs moved to elsewhere. The roots of today's racial segregation can be traced back to World War I, when African Americans from the South moved to the Rust Belt in search of jobs. In the 1930s, housing policies and redlining accelerated segregation by defining the composition of neighbourhoods and preventing mobility. These shaped the social vulnerability of different communities within the city and put historically excluded groups at higher risk of climate disasters. <br/>
 
-## Partners  <br/>
-* [The SeaCity Museum](https://seacitymuseum.co.uk/)
+In December 2022, Buffalo was hit by hurricane-force winds reaching up to 80 miles per hour during the Christmas season, leading to whiteout conditions, 15-foot-high snowdrifts, and wind chill temperatures plunging to 30 degrees below zero Fahrenheit. This blizzard, the longest ever recorded below 5,000 feet of elevation in continental U.S. history, caused significant disruption. It resulted in 46 deaths in Erie County, including 31 in Buffalo, and severely impacted the city's infrastructure, businesses, and numerous residential areas. Of the 31 people who died in Buffalo, 20 were people of color, which was disproportionate for the demographics of the city. The blizzard was not a natural disaster; it was the result of long-term social injustices and the human decision not to redress them. <br/>
 
-## Presentations <br/>
-* Park, W. (2023, November). From Titanic to Sewol: Science education, resilience and disaster justice. Society for Social Studies of Science (4S). Honolulu, HI, USA.
-* Park, W., Shaby, N., & Newman, R. (2024, January). Integrating science and history learning: The Remembering Titanic project. Association for Science Education (ASE). Northampton, UK.
-* Park W. (2024, June). Using community history as a vehicle for cross-curricular teacher development: The Remembering Titanic project. Co-Designing Instruction for Innovative Education: The Power of Educator–Academic Partnerships Towards Societal Change. University of Southampton.
+As an educational response to the disaster, the project asks, "How can we disrupt the 'natural disaster' narrative about climate disasters through justice-oriented science education based on community knowledge?" Between October 2023 and June 2024, 26 interviews were conducted with families, community leaders and science teachers in the Buffalo-Niagara region. In June 2024, two coalition meetings were convened with 13 individuals from the community to discuss the experiences of the Blizzard as well as the social justice and education issues related to the winter weather in the region. <br/>
 
-## Publications <br/>
-* Park, W. (2024). [Remembering Titanic: Lessons from a cross-curricular professional development project with science and history teachers](https://www.ase.org.uk/resources/education-in-science/issue-294/remembering-titanic). Education in Science, 294, 22–23.  
-* Park, W., Shaby, N., & Newman, R. (accepted). “We often forget it was a disaster”: Cross-curricular teacher collaboration to develop a curriculum unit on the Titanic disaster. Science & Education. 
+## Funder
+* National Science Foundation (2023-2024)
 
-## Links <br/>
-* [Remembering Titanic Project Website](https://www.remembertitanic.com/)
+## Team
+* **Noemi Waight**, University at Buffalo (Principal Investigator) <br/>
+* **Wonyong Park**, University of Southampton (Co-Principal Investigator) <br/>
+* **Christopher St. Vil**, University at Buffalo (Co-Principal Investigator) <br/>
+* **Jennifer Tripp**, University at Buffalo (Postdoctoral Researcher) <br/>
+
+## Publications
+- Park, W., Miani, L., & Levrini, O. (2024). [Disasters in the classroom: Lessons on talking to students about extreme climate events](https://www.preventionweb.net/drr-community-voices/disasters-classroom-lessons-talking-students-about-extreme-climate-events). UNDRR PreventionWeb.
+
+## Presentations
+* Park, W., Waight, N., St. Vil, C., Miles, M., & Mozaffari, F. (2024, June). Reimagining justice-oriented science education through disaster memories: Evidence from the Buffalo Blizzard of 2022. International Society of the Learning Sciences (ISLS), Buffalo, NY, USA.
+
+## Pictures
+<img src='/images/buffcoalition.png'>
+
+## Links
+* [Family Engagement to Support STEM Learning - CADRE Spotlight](https://cadrek12.org/spotlight/family-engagement-stem-learning#waight)
+* [Presentation at ISLS2024](/files/isls2024.pdf)
