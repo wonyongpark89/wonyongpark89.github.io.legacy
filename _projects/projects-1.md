@@ -1,7 +1,7 @@
 ---
 title: "Teaching Disasters: Developing Teachers' Knowledge and Skills"
 permalink: /projects/grenfellCPD/
-excerpt: "Coming Soon. <br/><br/><img src='/images/grenfell.jpg' width='400'>"
+excerpt: "Coming Soon. <br/><br/><img src='/images/grenfellcpd.jpg' width='400'>"
 collection: projects
 ---
 
