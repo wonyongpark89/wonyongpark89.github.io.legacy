@@ -1,7 +1,7 @@
 ---
 title: "Teaching Disasters: Developing Teachers' Knowledge and Skills"
 permalink: /projects/grenfellCPD/
-excerpt: "Drawing on the knowledge of the Grenfell community, this project will develop, implement and evaluate a professional development programme aimed at developing teachers' knowledge and skills in teaching about disasters. <br/><br/><img src='/images/grenfellcpd.jpg' width='400'>"
+excerpt: "Drawing on the knowledge of the Grenfell community, this project will develop, implement and evaluate an online professional development programme aimed at developing teachers' knowledge and skills in teaching about disasters. <br/><br/><img src='/images/grenfellcpd.jpg' width='400'>"
 collection: projects
 ---
 
@@ -22,3 +22,4 @@ Coming Soon <br/>
 * [The Grenfell Foundation](https://www.grenfellfoundation.org.uk/)
 * [Grenfell United](https://grenfellunited.org.uk/)
 * [Grenfell Tower Memorial Commission](https://www.grenfelltowermemorial.co.uk/)
+* [FutureLearn](https://www.futurelearn.com/)

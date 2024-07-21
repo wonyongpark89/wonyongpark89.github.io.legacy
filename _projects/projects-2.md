@@ -1,62 +1,38 @@
 ---
-title: "The Grenfell Curriculum"
-permalink: /projects/grenfell/
-excerpt: "The project combines disaster justice education and community-based participatory research methods to create a space for collaborative learning and identify educational needs and priorities, in collaboration with the Grenfell Tower fire community in London. <br/><br/><img src='/images/grenfell.jpg' width='400'>"
+title: "Climate Justice Education for Buffalo"
+permalink: /projects/buffalo/
+excerpt: "This project is an educational response to the deadly blizzard that hit Buffalo, NY in 2022. We are working with families and teachers in Buffalo to set priorities for climate justice education, drawing on the experience of the blizzard. <br/><br/><img src='/images/buffalo.jpg' width='400'>"
 collection: projects
 ---
 
-<img src='/images/grenfell.jpg'>
+<img src='/images/buffalo.jpg'>
 
-The project combines disaster justice education and community-engaged participatory research methods to create a space for collaborative learning and identify educational needs and priorities, in collaboration with the Grenfell Tower fire community in London. <br/>
+This project is an educational response to the deadly blizzard that hit Buffalo, NY in 2022. We worked with families and teachers in Buffalo to set priorities for climate justice education, drawing on the experience of the blizzard. <br/>
 
-The Grenfell Tower fire disaster occurred on June 14, 2017, in North Kensington, London, marking one of the most tragic events in recent British history. A fire broke out in the 24-story residential building and rapidly spread due to the flammable exterior cladding. The blaze raged for over 60 hours, resulting in the deaths of 72 people and injuring many others. Investigations revealed significant failures in social housing policy, fire safety regulations and building materials, with the state and cladding manufacturers bearing substantial responsibility for creating and perpetuating these social injustices. The project considers how we can redress such injustices and build a safe, just and disaster-resilient society through education. <br/>
+Buffalo-Niagara is one of the most racially segregated metropolitan regions in the U.S. White people are overrepresented in the suburbs and above-average opportunity areas, while Black and Hispanic people are overrepresented in the city of Buffalo. Buffalo is a prime example of a Rust Belt city which grew rapidly during the manufacturing boom and then declined as industry shrank and jobs moved to elsewhere. The roots of today's racial segregation can be traced back to World War I, when African Americans from the South moved to the Rust Belt in search of jobs. In the 1930s, housing policies and redlining accelerated segregation by defining the composition of neighbourhoods and preventing mobility. These shaped the social vulnerability of different communities within the city and put historically excluded groups at higher risk of climate disasters. <br/>
 
-We interviewed members of the Grenfell community, as well as teachers in North Kensington and Grenfell activists. We also collected existing lessons and in- and out-of-school educational initiatives about Grenfell from across the UK. In June 2024, We convened four 'Grenfell Education Meetings' with the community (survivors and bereaved, teachers, young adults and children) to discuss and reimagine education for social justice after Grenfell. <br/>
+In December 2022, Buffalo was hit by hurricane-force winds reaching up to 80 miles per hour during the Christmas season, leading to whiteout conditions, 15-foot-high snowdrifts, and wind chill temperatures plunging to 30 degrees below zero Fahrenheit. This blizzard, the longest ever recorded below 5,000 feet of elevation in continental U.S. history, caused significant disruption. It resulted in 46 deaths in Erie County, including 31 in Buffalo, and severely impacted the city's infrastructure, businesses, and numerous residential areas. Of the 31 people who died in Buffalo, 20 were people of color, which was disproportionate for the demographics of the city. The blizzard was not a natural disaster; it was the result of long-term social injustices and the human decision not to redress them. <br/>
+
+As an educational response to the disaster, the project asks, "How can we disrupt the 'natural disaster' narrative about climate disasters through justice-oriented science education based on community knowledge?" Between October 2023 and June 2024, 26 interviews were conducted with families, community leaders and science teachers in the Buffalo-Niagara region. In June 2024, two coalition meetings were convened with 13 individuals from the community to discuss the experiences of the Blizzard as well as the social justice and education issues related to the winter weather in the region. <br/>
 
 ## Funder
-* Research England (2023-2024)
+* National Science Foundation (2023-2025)
 
 ## Team
-* **Wonyong Park**, University of Southampton (Principal Investigator) <br/>
-* **Nigel Fancourt**, University of Oxford (Co-Investigator) <br/>
-* **Hanan Wahabi**, Grenfell Tower Memorial Commission (Co-Investigator) <br/>
-* **Arzhia Habibi**, University of Oxford (Research Assistant) <br/>
-* **Ruaa Al Rubaye**, University of Southampton (Summer Intern) <br/>
-
-## Partners 
-* [The Grenfell Foundation](https://www.grenfellfoundation.org.uk/)
-* [Grenfell United](https://grenfellunited.org.uk/)
-* [Grenfell Tower Memorial Commission](https://www.grenfelltowermemorial.co.uk/)
-
-## Research Questions
-* What does Grenfell mean to the survivors, bereaved families and residents, including young people?
-* What should we teach young people about the Grenfell disaster, and how can we do this?
-
-## Objectives 
-* Understand the community’s experiences, views, emotions and hopes related to Grenfell
-* Develop a set of priorities and approaches for disaster justice education in the context of Grenfell
-* Produce actionable policy recommendations for disaster justice education in the context of Grenfell
+* **Noemi Waight**, University at Buffalo (Principal Investigator) <br/>
+* **Wonyong Park**, University of Southampton (Co-Principal Investigator) <br/>
+* **Christopher St. Vil**, University at Buffalo (Co-Principal Investigator) <br/>
+* **Jennifer Tripp**, University at Buffalo (Postdoctoral Researcher) <br/>
 
 ## Publications
+- Park, W., Miani, L., & Levrini, O. (2024). [Disasters in the classroom: Lessons on talking to students about extreme climate events](https://www.preventionweb.net/drr-community-voices/disasters-classroom-lessons-talking-students-about-extreme-climate-events). UNDRR PreventionWeb.
 
 ## Presentations
-* Park, W., Fancourt, N., & Habibi, A. (2024, September). Learning from Grenfell: Centering the disaster-affected community to promote education for social justice. British Educational Research Association (BERA) Annual Meeting, Manchester, UK.
-
-## Links
-* [The Grenfell Curriculum (Twitter)](https://x.com/teachgrenfell)
-* [GTMC Final Report](https://wonyongpark89.github.io/posts/2023/11/gtmc-final-report/)
-* [Education and Memorialisation for Disaster Justice Webinar](https://wonyongpark89.github.io/posts/2024/01/education-and-memorialisation/)
-* [Grenfell Education Meeting: Slide Deck](/files/gemslides.pdf)
+* Park, W., Waight, N., St. Vil, C., Miles, M., & Mozaffari, F. (2024, June). Reimagining justice-oriented science education through disaster memories: Evidence from the Buffalo Blizzard of 2022. International Society of the Learning Sciences (ISLS), Buffalo, NY, USA.
 
 ## Pictures
-<img src='/images/gem1.jpeg'>
+<img src='/images/buffcoalition.png'>
 
-<img src='/images/gem2.jpeg'>
-
-<img src='/images/gem3.jpeg'>
-
-## Feedback from Community
-
-> "I thought the meeting was very helpful and comforting as we were heard and able to express our thought, view's and feelings on this sensitive topic, I am extremely grateful to work alongside the team and looking forward to continue working together and making further change." (Young Person)
-
-> "This meeting was great as we had a chance to hear directly from Survivors and Bereaved about their views and thoughts on what should be included in the curriculum as well as having the views of the teachers and the North Kensington community. This is part of the Grenfell legacy that we want our children to learn about when they grew up." (Bereaved & Survivor)
+## Links
+* [Family Engagement to Support STEM Learning - CADRE Spotlight](https://cadrek12.org/spotlight/family-engagement-stem-learning#waight)
+* [Presentation at ISLS2024](/files/isls2024.pdf)
