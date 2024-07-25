@@ -23,7 +23,7 @@ It brings together expertise in disaster education, values, religions and ethics
 * To share the experience with other disaster communities within and outside the UK to facilitate mutual learning and solidarity
 
 ## Funder
-* Economic and Social Research Council (Impact Acceleration Account) & The Grenfell Foundation (2024-2025)
+* Economic and Social Research Council - Impact Acceleration Account (2024-2025) & The Grenfell Foundation (2024-2027)
 
 ## Team
 * **Wonyong Park**, University of Southampton (Principal Investigator) <br/>
