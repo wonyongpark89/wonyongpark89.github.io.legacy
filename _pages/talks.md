@@ -122,3 +122,7 @@ author_profile: true
 - 🇺🇸 **Park, W.,** Waight, N., St. Vil, C., Miles, M., & Mozaffari, F. (2024, June). Reimagining justice-oriented science education through disaster memories: Evidence from the Buffalo Blizzard of 2022. Paper presented at the Annual Meeting of International Society of the Learning Sciences (ISLS), Buffalo, NY, USA.
 
 - 🇬🇧 **Park, W.**, Fancourt, N., & Habibi, A. (2024, September). Learning from Grenfell: Centering the disaster-affected community to promote education for social justice. Paper presented at the British Educational Research Association (BERA) Annual Meeting, Manchester, UK. (Shortlisted for Social Justice SIG Best Presentation Award)
+
+- 🇦🇷 **Park, W.** (2024, September). Unnatural disasters: Reframing science education for social justice. Paper presented at the Biennial Conference of the International History, Philosophy and Science Teaching Group (IHPST), Buenos Aires, Argentina.
+
+- 🇦🇷 **Park, W.** (2024, September). Classroom assessment and NOS: Issues and prospects. Paper presented at the Biennial Conference of the International History, Philosophy and Science Teaching Group (IHPST), Buenos Aires, Argentina.
