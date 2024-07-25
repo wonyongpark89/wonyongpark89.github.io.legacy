@@ -8,7 +8,6 @@ collection: projects
 <img src='/images/grenfellcpd.jpg'>
 
 This project develops and evaluates a continuing professional development (CPD) course for teachers  with the people affected by the Grenfell Tower fire in 2017 in London. Information will be collected from teachers, students and the members of the Grenfell community involved in the project to evidence the project’s impact.
-One of the worst disasters in modern British history that claimed 72 lives, the Grenfell disaster has raised pressing questions about humans, technology, and social justice. 
 It brings together expertise in disaster education, values, religions and ethics, and online learning and course development. It also includes substantial input from and collaboration with the Grenfell community at all stages of the project.
 
 ## Aims
