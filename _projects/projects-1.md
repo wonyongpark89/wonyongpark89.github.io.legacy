@@ -1,6 +1,6 @@
 ---
-title: "Teaching Disasters: Developing Teachers' Knowledge and Skills"
-permalink: /projects/grenfellCPD/
+title: "Teaching Disasters: Professional Development for Teachers"
+permalink: /projects/grenfellcpd/
 excerpt: "Drawing on the knowledge of the Grenfell community, this project will develop, implement and evaluate an online professional development programme aimed at developing teachers' knowledge and skills in teaching about disasters. <br/><br/><img src='/images/grenfellcpd.jpg' width='400'>"
 collection: projects
 ---
