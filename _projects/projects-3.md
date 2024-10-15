@@ -47,6 +47,8 @@ We interviewed members of the Grenfell community, as well as teachers in North K
 * [GTMC Final Report](https://wonyongpark89.github.io/posts/2023/11/gtmc-final-report/)
 * [Education and Memorialisation for Disaster Justice Webinar](https://wonyongpark89.github.io/posts/2024/01/education-and-memorialisation/)
 * [Grenfell Education Meeting: Slide Deck](/files/gemslides.pdf)
+* [Research Highlight - Redressing social injustices in the aftermath of disasters through education](https://www.southampton.ac.uk/research/highlights/redressing-social-injustices-in-the-aftermath-of-disasters-through-education)
+* [Presentation at Southampton Education School Research Seminar](/files/grenfelloct24.pdf)
 
 ## Pictures
 <img src='/images/gem1.jpeg'>

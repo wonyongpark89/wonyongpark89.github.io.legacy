@@ -35,4 +35,5 @@ As an educational response to the disaster, the project asks, "How can we disrup
 
 ## Links
 * [Family Engagement to Support STEM Learning - CADRE Spotlight](https://cadrek12.org/spotlight/family-engagement-stem-learning#waight)
+* [UBNow - NSF funding supports community education for blizzard preparedness](https://www.buffalo.edu/ubnow/stories/2024/10/waight-nsf-funding-blizzard.html?utm_source=sfmc&utm_medium=email&utm_campaign=uc_ubnow&utm_content=employee_101524)
 * [Presentation at ISLS2024](/files/isls2024.pdf)
