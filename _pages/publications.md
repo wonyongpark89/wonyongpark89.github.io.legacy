@@ -94,3 +94,9 @@ author_profile: true
 - Park, W. (2022). [K-Science Education: Korean science education from an international perspective](http://webzine-ssp.kr/education_issue/54). Journal of Seoul Science Education (August 2022 Issue) (written in Korean).
 
 - Park, W. (2020). [Preparing school science for the next disaster](https://www.teach311.org/2020/06/25/wonyong-park/). Teach311+COVID19 Collective Blog.
+
+## Media coverages
+
+- ["NSF funding supports community education for blizzard preparedness"](https://www.buffalo.edu/ubnow/stories/2024/10/waight-nsf-funding-blizzard.html?utm_source=sfmc&utm_medium=email&utm_campaign=uc_ubnow&utm_content=employee_101524). UBNow: News and views for the UB community. 
+
+- ["Redressing social injustices in the aftermath of disasters through education"](https://www.southampton.ac.uk/research/highlights/redressing-social-injustices-in-the-aftermath-of-disasters-through-education). University of Southampton Research Highlight.
