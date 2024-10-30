@@ -91,7 +91,7 @@ author_profile: true
 
 - Park, W. (2022). [How science education helps learning from disasters: Grenfell and Sewol](https://www.hpsst.com/uploads/6/2/9/3/62931075/opinion_page.pdf). HPS&ST Newsletter.
 
-- Park, W. (2022). [K-Science Education: Korean science education from an international perspective](http://webzine-ssp.kr/education_issue/54). Journal of Seoul Science Education (August 2022 Issue) (written in Korean).
+- Park, W. (2022). [K-Science Education: Korean science education from an international perspective](/files/ssepark2022.pdf). Journal of Seoul Science Education (August 2022 Issue) (written in Korean).
 
 - Park, W. (2020). [Preparing school science for the next disaster](https://www.teach311.org/2020/06/25/wonyong-park/). Teach311+COVID19 Collective Blog.
 
