@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 > You can also find my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>. <br/>
-> Some of my publications are paywalled. Send me an email if you'd like a copy. <br/>
+> Most of my publications are open access but a few are not. Send me an email if you'd like a copy. <br/>
 
 ## Books
 
@@ -65,9 +65,9 @@ author_profile: true
 ## Book chapters
 - Park, W., Chun, J., & Ji, H. (in press). [Why did the Fukushima nuclear accident happen, and how did it affect people?](https://doi.org/10.1007/978-3-031-76297-0_21). In D. Steele & A. K. Mercier (Eds.), Justice-oriented science teaching and learning: Anchoring phenomena in secondary classrooms. Springer. 
 
-- Skilling, K., & Park, W. (2022). [STEM in a changing world: “Insider” and “outsider” perspectives](https://doi.org/10.4324/9781003404989-2). In L. English & T. Lehmann (Eds.), Ways of Thinking in STEM-based Problem Solving. Routledge. 
+- Skilling, K., & Park, W. (2024). [STEM in a changing world: “Insider” and “outsider” perspectives](https://doi.org/10.4324/9781003404989-2). In L. English & T. Lehmann (Eds.), Ways of Thinking in STEM-based Problem Solving. Routledge. 
 
-- Erduran, S., Guilfoyle, L., & Park, W. (2024). [Broadening STEM education through cross-curricular collaboration: The case of argumentation in science and religious education.](https://doi.org/10.1007/978-3-031-52924-5_12) In Y. Li, Z. Zeng & N. Song (Eds.), Disciplinary and Iiterdisciplinary education in STEM: Changes and innovations (pp. 241-264). Springer.
+- Erduran, S., Guilfoyle, L., & Park, W. (2024). [Broadening STEM education through cross-curricular collaboration: The case of argumentation in science and religious education.](https://doi.org/10.1007/978-3-031-52924-5_12) In Y. Li, Z. Zeng & N. Song (Eds.), Disciplinary and interdisciplinary education in STEM: Changes and innovations (pp. 241-264). Springer.
 
 - Erduran, S, & Park, W. (2023). [A systemic approach to the integration of Big Science in science education](https://doi.org/10.1088/978-0-7503-3631-4ch42). In P. Charitos, T. Arabatzis, H. Cliff, G. Dissertori, J. Forneris & J. Li-Ying (Eds.), Big Science in the 21st century: Economic and social impacts. IOP Publishing. 
 - Erduran, S., & Park, W. (2023). [Argumentation in physics education: Recent trends and key themes](https://doi.org/10.1063/9780735425477_016). In M. F. Taşar & P. Heron (Eds.), International handbook of physics education research. AIP Publishing. 
