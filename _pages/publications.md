@@ -16,7 +16,7 @@ author_profile: true
 
 - Millar, V., Park, W., & Dillon, J. (2024). (Eds.). The science curriculum: Issues, tensions and future prospects. Special issue of International Journal of Science Education.
 
-- Park, W., Grace, M. Hutton, C. W., & Knowles, S. G. (2024). (Eds.). Teaching and learning about disasters: Contributions from historical and social studies of science. Special issue of Science & Education.
+- Park, W., Grace, M. Hutton, C. W., & Knowles, S. G. (2024). (Eds.). Science education in an age of unnatural disasters. Special issue of Science & Education.
 
 ## Journal articles
 
@@ -95,7 +95,11 @@ author_profile: true
 
 - Park, W. (2020). [Preparing school science for the next disaster](https://www.teach311.org/2020/06/25/wonyong-park/). Teach311+COVID19 Collective Blog.
 
-## Media coverage
+## Technical reports
+
+- Park, W., Byrne, I., Scraton, P., Lee, J., Lee, E., Wahabi, H., & Calamelli, E., (2024). [Education and memorialisation for disaster justice: Lessons from Grenfell, Hillsborough and Sewol](https://doi.org/10.5258/SOTON/PP0070). University of Southampton. 
+
+## Media
 
 - ["NSF funding supports community education for blizzard preparedness"](https://www.buffalo.edu/ubnow/stories/2024/10/waight-nsf-funding-blizzard.html?utm_source=sfmc&utm_medium=email&utm_campaign=uc_ubnow&utm_content=employee_101524). UBNow: News and views for the UB community. 
 
