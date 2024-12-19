@@ -13,10 +13,10 @@ The isolation and lack of engagement between the two can lead to duplication of 
 
 ## Aims
 * Map out the current landscape of science education policymaking
-* Bring together representatives from learned societies and HEI researchers in science education
-* Facilitate the exchange of knowledge and experience between the two sectors
-* Identify pathways for joint problem discovery and knowledge creation between the two sectors
-* Co-develop suggestions to promote research-informed policy and policy-informed research.
+* Bring together policy actors from learned societies and HEI researchers in science education
+* Facilitate the exchange of knowledge and experience between the two communities
+* Identify pathways for joint problem discovery and knowledge creation between the two communities
+* Co-develop suggestions to promote research-informed policy and policy-informed research
 
 ## Funder
 * University of Southampton (Higher Education Innovation Fund, 2024-25)
