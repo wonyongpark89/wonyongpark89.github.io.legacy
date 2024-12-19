@@ -35,3 +35,6 @@ It brings together expertise in disaster education, values, religions and ethics
 * [Grenfell United](https://grenfellunited.org.uk/)
 * [Grenfell Tower Memorial Commission](https://www.grenfelltowermemorial.co.uk/)
 * [FutureLearn](https://www.futurelearn.com/)
+
+## Links
+* [Meeting with Space Youth](https://www.wonyongpark.com/posts/2024/04/meeting-with-space-youth/)
