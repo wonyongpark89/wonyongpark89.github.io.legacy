@@ -24,4 +24,4 @@ I am keen to hear from prospective PhD students interested in science education,
 
 # Funded PhD opportunity for 2024-25 entry
 I am accepting applications for a fully funded 4 year PhD studentship. Find out more at: 
-https://www.findaphd.com/phds/project/composing-resilience-the-role-of-music-in-post-disaster-recovery-and-community-resilience-in-the-uk/?p178533=
+[https://www.findaphd.com/phds/project/composing-resilience-the-role-of-music-in-post-disaster-recovery-and-community-resilience-in-the-uk/?p178533=](https://www.findaphd.com/phds/project/composing-resilience-the-role-of-music-in-post-disaster-recovery-and-community-resilience-in-the-uk/?p178533=)
