@@ -1,6 +1,6 @@
 ---
-title: "Dialogue for Science Education Policy and Research (DiSER)"
-permalink: /projects/diser/
+title: "Bridging Research and Advocacy to Improve Science Education (BRAISE)"
+permalink: /projects/braise/
 excerpt: "This project aims to bridge higher education institutions and learned societies to explore future directions for research-informed policy and policy-informed research in science education in England. <br/><br/><img src='/images/bridge.jpg' width='400'>"
 collection: projects
 ---
