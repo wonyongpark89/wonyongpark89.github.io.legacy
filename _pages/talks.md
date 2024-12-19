@@ -55,6 +55,14 @@ author_profile: true
 
 - 🇪🇪 University of Tartu, Institute of Ecology and Earth Science Centre for Science Education (ESERA Summer School 2024). August 2024.
 
+- 🇬🇧 University of Southampton, Southampton Education School (Education Research Seminar Series). October 2024.
+
+- 🇬🇧 Institute of Physics. IOP Physics Education Research Symposium: Fostering Dialogue, Building Community, Identifying Priorities & Needs. October 2024.
+
+- 🇰🇷 Seoul National University. International Conference on Science Education in the Infosphere. November 2024.
+
+- 🇰🇷 Korea Advanced Institute of Science and Technology, Slow Disaster Lab. December 2023.
+
 ## Conference presentations
 
 - 🇰🇷 **Park, W.**, Park. J., & Song, J. (2016, January). Goethe's color theory: The subjective side of science and science education. Paper presented at the Annual International Conference of the Korea Association of Science Education (KASE), Daegu, Korea. 
@@ -126,5 +134,7 @@ author_profile: true
 - 🇦🇷 **Park, W.** (2024, September). Unnatural disasters: Reframing science education for social justice. Paper presented at the Biennial Conference of the International History, Philosophy and Science Teaching Group (IHPST), Buenos Aires, Argentina.
 
 - 🇦🇷 **Park, W.** (2024, September). Classroom assessment and NOS: Issues and prospects. Paper presented at the Biennial Conference of the International History, Philosophy and Science Teaching Group (IHPST), Buenos Aires, Argentina.
+
+- 🇺🇸 **Park, W.,** Waight, N., Tripp, J., St. Vil, C., & Mozaffari, F. (2025, March). De-naturalizing climate disasters through justice-oriented science education. Paper presented at the Annual Meeting of National Association for Research in Science Teaching (NARST), Washington, DC, USA.
 
 [comment]: Find country flags here: https://beta.emojipedia.org/flag-brazil
