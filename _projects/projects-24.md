@@ -26,7 +26,7 @@ Focusing on the integration of formal and informal education in the context of t
 
 ## Publications <br/>
 * Park, W. (2024). [Remembering Titanic: Lessons from a cross-curricular professional development project with science and history teachers](https://www.ase.org.uk/resources/education-in-science/issue-294/remembering-titanic). Education in Science, 294, 22–23.  
-* Park, W., Shaby, N., & Newman, R. (accepted). “We often forget it was a disaster”: Cross-curricular teacher collaboration to develop a curriculum unit on the Titanic disaster. Science & Education. 
+* Park, W., Shaby, N., & Newman, R. (2025). [“We often forget it was a disaster”: Cross-curricular teacher collaboration to develop a curriculum unit on the Titanic disaster.](https://doi.org/10.1007/s11191-024-00540-0) Science & Education. 
 
 ## Links <br/>
 * [Remembering Titanic Project Website](https://www.remembertitanic.com/)
