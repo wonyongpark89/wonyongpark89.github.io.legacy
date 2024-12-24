@@ -22,7 +22,7 @@ author_profile: true
 
 - Park, W., Shaby, N., & Newman, R. (in press). ["We often forget it was a disaster": Cross-curricular teacher collaboration to develop a curriculum unit on the Titanic disaster](https://doi.org/10.1007/s11191-024-00540-0). Science & Education.
 
-- Park, W., Lim, I., & Song, J. (in press). [Exploring the intersection of disasters and science education with preservice science teachers through a disaster case study](https://doi.org/10.1007/s11422-024-10225-3). Cultural Studies of Science Education.
+- Park, W., Lim, I., & Song, J. (2024). [Exploring the intersection of disasters and science education with preservice science teachers through a disaster case study](https://doi.org/10.1007/s11422-024-10225-3). Cultural Studies of Science Education, 19(4), 593-622.
 
 - Brock, R., & Park, W. (2024). [Distinguishing nature of science beliefs, knowledge and understandings: Towards clarity and coherence in educational goals related to the nature of science](https://doi.org/10.1007/s11191-022-00368-6). Science & Education, 33(3), 495-516.
 
