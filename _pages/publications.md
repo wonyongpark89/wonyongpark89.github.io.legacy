@@ -14,11 +14,13 @@ author_profile: true
 
 ## Edited volumes
 
-- Millar, V., Park, W., & Dillon, J. (2024). (Eds.). The science curriculum: Issues, tensions and future prospects. Special issue of International Journal of Science Education.
+- Park, W., Grace, M. Hutton, C. W., & Knowles, S. G. (2025, in press). (Eds.). Science education in an age of unnatural disasters. Special issue of Science & Education.
 
-- Park, W., Grace, M. Hutton, C. W., & Knowles, S. G. (2024). (Eds.). Science education in an age of unnatural disasters. Special issue of Science & Education.
+- Millar, V., Park, W., & Dillon, J. (2025, in press). (Eds.). The science curriculum: Issues, tensions and future prospects. Special issue of International Journal of Science Education.
 
 ## Journal articles
+
+- Park, W., Grace, M. Hutton, C. W., & Knowles, S. G. (in press). Science education in an age of unnatural disasters: An introduction to the special issue. Science & Education.
 
 - Park, W., Shaby, N., & Newman, R. (in press). ["We often forget it was a disaster": Cross-curricular teacher collaboration to develop a curriculum unit on the Titanic disaster](https://doi.org/10.1007/s11191-024-00540-0). Science & Education.
 
