@@ -1,36 +1,25 @@
 ---
-title: "Bridging Research and Policy to Improve Science Education in England"
-permalink: /projects/bridge/
-excerpt: "This project aims to bridge higher education institutions and learned societies to explore future directions for research-informed policy and policy-informing research in science education in England. <br/><br/><img src='/images/bridge.jpg' width='400'>"
+title: "STEM Participation and Aspiration in Ultra-low-fertility South Korea"
+permalink: /projects/fertility/
+excerpt: "This project examines how demographic decline is shaping STEM education in South Korean schools, and how it is affecting students’ opportunities in STEM fields. <br/><br/><img src='/images/korea1.jpg' width='400'>"
 collection: projects
 ---
 
-<img src='/images/bridge.jpg'>
+<img src='/images/korea1.jpg'>
 
-Higher education institutions (HEIs) and learned societies are key contributors of knowledge and expertise to shaping science education policy, ranging from curriculum reform and diversity through to teacher shortages. While the role of the two sectors is pivotal to the continuous evolution of science education in England, the intersection of these two communities of practice has rarely been formally examined. 
+South Korea’s demographic crisis, characterised by an ageing population and a record-low fertility rate of 0.78 children per woman by 2022, is having a significant impact on the education system. With enrolments declining rapidly, many schools are facing closure or consolidation in order to maintain the quality of education with limited resources. This study examines how these demographic changes affect Science, Technology, Engineering and Mathematics (STEM) education, focusing on schools in regions with declining populations. 
 
-The isolation and lack of engagement between the two can lead to duplication of effort and overly siloed research and practice. Policy actors often find research published in academic journals by HEI researchers too abstract, high-level, and disconnected from practice; HEI researchers often criticise policy recommendations and measures for lacking theoretical and evidentiary underpinnings. There are clear challenges to collaboration such as horizon mismatch, misaligned incentives, and resistance to change. This project aims to bridge these two sectors to explore future directions for research-informed policy and policy-informed research in science education.
+By examining how demographic shifts affect students’ opportunities to learn STEM subjects and pursue STEM careers, this study aims to explore directions for policy interventions that can turn the demographic crisis into an opportunity.
 
-The project invovles documentary analysis, interviews and knowledge exchange events with policy actors in science education (policymakers, learned societies and researchers).
-
-## Aims
-* Map out the current landscape of science education policymaking
-* Bring together policy actors from learned societies and HEI researchers in science education
-* Facilitate the exchange of knowledge and experience between the two communities
-* Identify pathways for joint problem discovery and knowledge creation between the two communities
-* Co-develop suggestions to promote research-informed policy and policy-informed research
+## Research Questions
+1.	How is the demographic decline shifting STEM education in small schools in South Korea?
+2.	How does such a change impact students’ opportunities to participate in STEM and pursue STEM careers?
 
 ## Funder
-* University of Southampton (Higher Education Innovation Fund, 2024-25)
+* Academy of Korean Studies (2025-2026)
 
 ## Team
 * **Wonyong Park**, University of Southampton (Principal Investigator)
-* [**Carys Hughes**](https://www.southampton.ac.uk/people/5xcbbw/doctor-carys-hughes), University of Southampton (Co-Investigator)
-* [**Chris Downey**](https://www.southampton.ac.uk/people/5x2t9x/professor-chris-downey), University of Southampton (Co-Investigator) 
-* [**Elisabetta Calamelli**](https://www.southampton.ac.uk/publicpolicy/about/1_team.page), University of Southampton (Policy Officer)
-
-## Partner
-* [**Association for Science Education**](https://www.ase.org.uk/)
 
 ## Links
 * Coming soon
