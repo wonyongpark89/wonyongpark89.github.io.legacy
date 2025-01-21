@@ -83,6 +83,8 @@ author_profile: true
 
 ## Opinions, reviews and practitioner pieces
 
+- Newman, R., & Park, W. (2025). [Creating opportunities for learning across subjects through the Titanic disaster](https://www.bera.ac.uk/blog/creating-opportunities-for-learning-across-subjects-through-the-titanic-disaster). BERA Blog.
+
 - Park, W., Miani, L., & Levrini, O. (2024). [Disasters in the classroom: Lessons on talking to students about extreme climate events](https://www.preventionweb.net/drr-community-voices/disasters-classroom-lessons-talking-students-about-extreme-climate-events). UNDRR PreventionWeb.
 
 - Park, W. (2024). [Remembering Titanic: Lessons from a cross-curricular professional development project with science and history teachers](/files/eistitanic.pdf). Education in Science, 294, 22-23.
