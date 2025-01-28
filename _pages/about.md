@@ -20,7 +20,7 @@ My projects have been funded by the [Economic and Social Research Council](https
 I grew up in an industrial coastal city in South Korea. I completed my undergraduate degree and teacher training in physics education and obtained an MSc in science education, both from [Seoul National University](https://en.snu.ac.kr/). After teaching in secondary schools in Seoul, I moved to the UK to undertake a DPhil in Science Education at the [Department of Education, University of Oxford](https://www.education.ox.ac.uk/), from 2018 to 2021. In my [doctoral project](https://ora.ox.ac.uk/objects/uuid:f117fbd8-6e07-456a-b6ad-92ff74b28d0a), I looked at how three high school science teachers assessed students' nature of science understandings in their classrooms.
 
 # Study with me
-I am keen to hear from prospective PhD students interested in science education, STEM education, disaster education and teacher education. I do **not** supervise PhDs outside of my expertise. For more information about PhD application, see [this page](https://www.southampton.ac.uk/study/postgraduate-research/education).
+I am keen to hear from prospective PhD students interested in science education, physics education, STEM education, disaster education and teacher education. I do **not** supervise PhDs outside of my expertise. For more information about PhD application, see [this page](https://www.southampton.ac.uk/study/postgraduate-research/education).
 
 # Funded PhD opportunity for 2024-25 entry
 I am accepting applications for a fully funded 4 year PhD studentship. Find out more at: 
