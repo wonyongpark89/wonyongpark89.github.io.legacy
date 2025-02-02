@@ -19,6 +19,7 @@ author_profile: true
 - Millar, V., Park, W., & Dillon, J. (2025, in press). (Eds.). The science curriculum: Issues, tensions and future prospects. Special issue of International Journal of Science Education.
 
 ## Journal articles
+- Millar, V., Park, W., & Dillon, J. (in press). The science curriculum: Issues, tensions and future prospects. International Journal of Science Education.
 
 - Park, W., Grace, M. Hutton, C. W., & Knowles, S. G. (in press). Science education in an age of unnatural disasters: An introduction to the special issue. Science & Education.
 
