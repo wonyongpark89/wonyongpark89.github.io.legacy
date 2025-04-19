@@ -19,6 +19,7 @@ author_profile: true
 - Millar, V., Park, W., & Dillon, J. (2025, in press). (Eds.). The science curriculum: Issues, tensions and future prospects. Special issue of International Journal of Science Education.
 
 ## Journal articles
+
 - Park, W. (in press). STEM education for transformative hazard literacy: from technological fixes to slow learning. Journal of Hazard Literacy.
 
 - Millar, V., Park, W., & Dillon, J. (in press). The science curriculum: Issues, tensions and future prospects. International Journal of Science Education.
