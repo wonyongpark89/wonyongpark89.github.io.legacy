@@ -16,7 +16,7 @@ author_profile: true
 
 - Park, W., Grace, M. Hutton, C. W., & Knowles, S. G. (2025, in press). (Eds.). Science education in an age of unnatural disasters. Special issue of Science & Education.
 
-- Millar, V., Park, W., & Dillon, J. (2025, in press). (Eds.). The science curriculum: Issues, tensions and future prospects. Special issue of International Journal of Science Education.
+- Millar, V., Park, W., & Dillon, J. (2025, in press). (Eds.). [The science curriculum: Issues, tensions and future prospects](https://doi.org/10.1080/09500693.2025.2504644). Special issue of International Journal of Science Education.
 
 - Park, W., & Erduran, S. (2025). [Argumentation and the problem of misinformation in science education](https://link.springer.com/collections/jfjieedgbd). Thematic Collection of Research in Science Education. 
 
@@ -24,7 +24,7 @@ author_profile: true
 
 - Park, W. (in press). STEM education for transformative hazard literacy: from technological fixes to slow learning. Journal of Hazard Literacy.
 
-- Millar, V., Park, W., & Dillon, J. (in press). The science curriculum: Issues, tensions and future prospects. International Journal of Science Education.
+- Millar, V., Park, W., & Dillon, J. (in press). [The science curriculum: Issues, tensions and future prospects](https://doi.org/10.1080/09500693.2025.2504644). International Journal of Science Education.
 
 - Park, W., Grace, M. Hutton, C. W., & Knowles, S. G. (in press). Science education in an age of unnatural disasters: An introduction to the special issue. Science & Education.
 
