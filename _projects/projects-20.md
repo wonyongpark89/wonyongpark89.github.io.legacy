@@ -23,5 +23,7 @@ By examining how demographic shifts affect students’ opportunities to learn ST
 
 ## Pictures
 <img src='/images/IMG_0657.JPEG'>
+
 <img src='/images/IMG_0674.JPEG'>
+
 <img src='/images/IMG_0681.JPEG'>
