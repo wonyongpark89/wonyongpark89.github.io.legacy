@@ -22,13 +22,13 @@ author_profile: true
 
 ## Journal articles
 
-- Park, W. (in press). STEM education for transformative hazard literacy: from technological fixes to slow learning. Journal of Hazard Literacy.
-
 - Millar, V., Park, W., & Dillon, J. (in press). [The science curriculum: Issues, tensions and future prospects](https://doi.org/10.1080/09500693.2025.2504644). International Journal of Science Education.
 
 - Park, W., Grace, M. Hutton, C. W., & Knowles, S. G. (in press). [Science education in an age of unnatural disasters: An introduction to the special issue](https://doi.org/10.1007/s11191-025-00652-1). Science & Education.
 
 - Park, W., Shaby, N., & Newman, R. (in press). ["We often forget it was a disaster": Cross-curricular teacher collaboration to develop a curriculum unit on the Titanic disaster](https://doi.org/10.1007/s11191-024-00540-0). Science & Education.
+
+- Park, W. (2025). [STEM education for transformative hazard literacy: from technological fixes to slow learning](https://doi.org/10.63737/jhl.25.0014). Journal of Hazard Literacy, 1(1), e3.
 
 - Park, W., Lim, I., & Song, J. (2024). [Exploring the intersection of disasters and science education with preservice science teachers through a disaster case study](https://doi.org/10.1007/s11422-024-10225-3). Cultural Studies of Science Education, 19(4), 593-622.
 
