@@ -40,6 +40,21 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-body {
-  background-color: pink !important;
+/* === Custom navbar styles === */
+.navbar {
+  background-color: #005c84 !important;
+}
+
+.navbar-brand {
+  color: #ffffff !important;
+}
+
+.navbar-nav > li > a,
+.navbar-nav .nav-link {
+  color: #ffffff !important;
+}
+
+.navbar-nav > li > a:hover,
+.navbar-nav .nav-link:hover {
+  color: #dcdcdc !important;
 }
