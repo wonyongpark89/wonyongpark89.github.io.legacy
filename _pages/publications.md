@@ -107,6 +107,8 @@ author_profile: true
 
 ## Technical reports
 
+- Park, W., Fancourt, N., Habibi, A., & Wahabi, H. (2025). [Teaching about Grenfell: Recommendations from the community](https://eprints.soton.ac.uk/501889/). University of Southampton & University of Oxford.
+
 - Park, W., Byrne, I., Scraton, P., Lee, J., Lee, E., Wahabi, H., & Calamelli, E., (2024). [Education and memorialisation for disaster justice: Lessons from Grenfell, Hillsborough and Sewol](https://doi.org/10.5258/SOTON/PP0070). University of Southampton. 
 
 ## Media
