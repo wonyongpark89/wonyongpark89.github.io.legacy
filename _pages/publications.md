@@ -14,7 +14,7 @@ author_profile: true
 
 ## Edited volumes
 
-- Park, W., Grace, M. Hutton, C. W., & Knowles, S. G. (2025, in press). (Eds.). [Science education in an age of unnatural disasters](https://doi.org/10.1007/s11191-025-00652-1). Special issue of Science & Education.
+- Park, W., Grace, M. Hutton, C. W., & Knowles, S. G. (2025). (Eds.). [Science education in an age of unnatural disasters](https://doi.org/10.1007/s11191-025-00652-1). Special issue of Science & Education.
 
 - Millar, V., Park, W., & Dillon, J. (2025, in press). (Eds.). [The science curriculum: Issues, tensions and future prospects](https://doi.org/10.1080/09500693.2025.2504644). Special issue of International Journal of Science Education.
 
@@ -24,9 +24,9 @@ author_profile: true
 
 - Millar, V., Park, W., & Dillon, J. (in press). [The science curriculum: Issues, tensions and future prospects](https://doi.org/10.1080/09500693.2025.2504644). International Journal of Science Education.
 
-- Park, W., Grace, M. Hutton, C. W., & Knowles, S. G. (in press). [Science education in an age of unnatural disasters: An introduction to the special issue](https://doi.org/10.1007/s11191-025-00652-1). Science & Education.
+- Park, W., Grace, M. Hutton, C. W., & Knowles, S. G. (2025). [Science education in an age of unnatural disasters: An introduction to the special issue](https://doi.org/10.1007/s11191-025-00652-1). Science & Education, 34(3), 957-967.
 
-- Park, W., Shaby, N., & Newman, R. (in press). ["We often forget it was a disaster": Cross-curricular teacher collaboration to develop a curriculum unit on the Titanic disaster](https://doi.org/10.1007/s11191-024-00540-0). Science & Education.
+- Park, W., Shaby, N., & Newman, R. (2025). ["We often forget it was a disaster": Cross-curricular teacher collaboration to develop a curriculum unit on the Titanic disaster](https://doi.org/10.1007/s11191-024-00540-0). Science & Education, 34(3), 1087-1114.
 
 - Park, W. (2025). [STEM education for transformative hazard literacy: from technological fixes to slow learning](https://doi.org/10.63737/jhl.25.0014). Journal of Hazard Literacy, 1(1), e3.
 
