@@ -14,9 +14,9 @@ author_profile: true
 
 ## Edited volumes
 
-- Park, W., Grace, M. Hutton, C. W., & Knowles, S. G. (2025). (Eds.). [Science education in an age of unnatural disasters](https://doi.org/10.1007/s11191-025-00652-1). Special issue of Science & Education.
+- Park, W., Grace, M. Hutton, C. W., & Knowles, S. G. (2025). (Eds.). [Science education in an age of unnatural disasters](https://doi.org/10.1007/s11191-025-00652-1). Special Issue of Science & Education (Volume 34, Issue 3).
 
-- Millar, V., Park, W., & Dillon, J. (2025, in press). (Eds.). [The science curriculum: Issues, tensions and future prospects](https://doi.org/10.1080/09500693.2025.2504644). Special issue of International Journal of Science Education.
+- Millar, V., Park, W., & Dillon, J. (2025, in press). (Eds.). [The science curriculum: Issues, tensions and future prospects](https://doi.org/10.1080/09500693.2025.2504644). Special Issue of International Journal of Science Education.
 
 - Park, W., & Erduran, S. (2025). [Argumentation and the problem of misinformation in science education](https://link.springer.com/collections/jfjieedgbd). Thematic Collection of Research in Science Education. 
 
@@ -73,11 +73,12 @@ author_profile: true
 ## Book chapters
 - Park, W., Chun, J., & Ji, H. (in press). [Why did the Fukushima nuclear accident happen, and how did it affect people?](https://doi.org/10.1007/978-3-031-76297-0_21). In D. Steele & A. K. Mercier (Eds.), Justice-oriented science teaching and learning: Anchoring phenomena in secondary classrooms. Springer. 
 
-- Skilling, K., & Park, W. (2024). [STEM in a changing world: “Insider” and “outsider” perspectives](https://doi.org/10.4324/9781003404989-2). In L. English & T. Lehmann (Eds.), Ways of Thinking in STEM-based Problem Solving. Routledge. 
+- Skilling, K., & Park, W. (2024). [STEM in a changing world: “Insider” and “outsider” perspectives](https://doi.org/10.4324/9781003404989-2). In L. English & T. Lehmann (Eds.), Ways of thinking in STEM-based problem solving. Routledge. 
 
 - Erduran, S., Guilfoyle, L., & Park, W. (2024). [Broadening STEM education through cross-curricular collaboration: The case of argumentation in science and religious education.](https://doi.org/10.1007/978-3-031-52924-5_12) In Y. Li, Z. Zeng & N. Song (Eds.), Disciplinary and interdisciplinary education in STEM: Changes and innovations (pp. 241-264). Springer.
 
-- Erduran, S, & Park, W. (2023). [A systemic approach to the integration of Big Science in science education](https://doi.org/10.1088/978-0-7503-3631-4ch42). In P. Charitos, T. Arabatzis, H. Cliff, G. Dissertori, J. Forneris & J. Li-Ying (Eds.), Big Science in the 21st century: Economic and social impacts. IOP Publishing. 
+- Erduran, S, & Park, W. (2023). [A systemic approach to the integration of Big Science in science education](https://doi.org/10.1088/978-0-7503-3631-4ch42). In P. Charitos, T. Arabatzis, H. Cliff, G. Dissertori, J. Forneris & J. Li-Ying (Eds.), Big Science in the 21st century: Economic and social impacts. IOP Publishing.
+ 
 - Erduran, S., & Park, W. (2023). [Argumentation in physics education: Recent trends and key themes](https://doi.org/10.1063/9780735425477_016). In M. F. Taşar & P. Heron (Eds.), International handbook of physics education research. AIP Publishing. 
 
 - Park, W., Wu, J.-Y., & Erduran, S. (2020). [Investigating the epistemic nature of STEM: Analysis of curriculum documents from the USA using the Family Resemblance Approach](https://doi.org/10.1007/978-3-030-52229-2_8). In Anderson, J., & Li, Y. (Eds.) Integrated approaches to STEM education: An international perspective (pp. 137–155). Springer. 
