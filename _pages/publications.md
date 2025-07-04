@@ -21,6 +21,7 @@ author_profile: true
 - Park, W., & Erduran, S. (2025). [Argumentation and the problem of misinformation in science education](https://link.springer.com/collections/jfjieedgbd). Thematic Collection of Research in Science Education. 
 
 ## Journal articles
+- Baden, D., Baker, J., Buermann, J., Dawson, I., Dbouk, W., Dearing, J. A., Doncaster, C. P., Eigenbrod, F., Hellman, T., Hoyle, R. B., & Ianni, A., Kassem, H., Katsikopoulou, K., Kunc, M., Manfren, M., Marshall, A., Park, W., Sengupta, D., Townend, I., & Wanick, V. (in press). [Anticipating futures: Understanding the fundamental importance of narratives through an integrative interdisciplinary approach](https://doi.org/10.2139/ssrn.4993313). Futures.  
 
 - Millar, V., Park, W., & Dillon, J. (in press). [The science curriculum: Issues, tensions and future prospects](https://doi.org/10.1080/09500693.2025.2504644). International Journal of Science Education.
 
