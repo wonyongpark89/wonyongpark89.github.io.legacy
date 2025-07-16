@@ -91,7 +91,7 @@ author_profile: true
 
 ## Opinions, reviews and practitioner pieces
 
-- Park, W., Russell, H., & Fancourt, N. (2025). [Never again: Disaster memory and education for social justice after Grenfell](/files.neveragain.pdf). Teaching Citizenship, 61, 38-41.
+- Park, W., Russell, H., & Fancourt, N. (2025). [Never again: Disaster memory and education for social justice after Grenfell](/files/neveragain.pdf). Teaching Citizenship, 61, 38-41.
 
 - Newman, R., & Park, W. (2025). [Creating opportunities for learning across subjects through the Titanic disaster](https://www.bera.ac.uk/blog/creating-opportunities-for-learning-across-subjects-through-the-titanic-disaster). BERA Blog.
 
