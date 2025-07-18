@@ -73,7 +73,7 @@ author_profile: true
 - Park, W., & Song, J. (2018). [Goethe’s conception of “experiment as mediator” and implications for practical work in school science](https://doi.org/10.1007/s11191-018-9965-z). Science & Education, 27(1–2), 39–61.
 
 ## Book chapters
-- Park, W., Chun, J., & Ji, H. (in press). [Why did the Fukushima nuclear accident happen, and how did it affect people?](https://doi.org/10.1007/978-3-031-76297-0_21). In D. Steele & A. K. Mercier (Eds.), Justice-oriented science teaching and learning: Anchoring phenomena in secondary classrooms. Springer. 
+- Park, W., Chun, J., & Ji, H. (2025). [Why did the Fukushima nuclear accident happen, and how did it affect people?](https://doi.org/10.1007/978-3-031-76297-0_21). In D. Steele & A. K. Mercier (Eds.), Justice-oriented science teaching and learning: Anchoring phenomena in secondary classrooms (pp. 397-410). Springer. 
 
 - Skilling, K., & Park, W. (2024). [STEM in a changing world: “Insider” and “outsider” perspectives](https://doi.org/10.4324/9781003404989-2). In L. English & T. Lehmann (Eds.), Ways of thinking in STEM-based problem solving. Routledge. 
 
