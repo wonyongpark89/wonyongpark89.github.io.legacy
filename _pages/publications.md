@@ -24,7 +24,7 @@ author_profile: true
 
 - Millar, V., Park, W., & Dillon, J. (in press). [The science curriculum: Issues, tensions and future prospects](https://doi.org/10.1080/09500693.2025.2504644). International Journal of Science Education.
 
-- Baden, D., Baker, J., Buermann, J., Dawson, I., Dbouk, W., Dearing, J. A., Doncaster, C. P., Eigenbrod, F., Hellman, T., Hoyle, R. B., & Ianni, A., Kassem, H., Katsikopoulou, K., Kunc, M., Manfren, M., Marshall, A., Park, W., Sengupta, D., Townend, I., & Wanick, V. (in press). [Anticipating futures: Understanding the fundamental importance of narratives through an integrative interdisciplinary approach](https://doi.org/10.1016/j.futures.2025.103649). Futures, 173, 103649.  
+- Townend, I., Baden, D., Baker, J., Buermann, J., Dawson, I., Dbouk, W., Dearing, J. A., Doncaster, C. P., Eigenbrod, F., Hellman, T., Hoyle, R. B., & Ianni, A., Kassem, H., Katsikopoulou, K., Kunc, M., Manfren, M., Marshall, A., Park, W., Sengupta, D., & Wanick, V. (2025). [Anticipating futures: Understanding the fundamental importance of narratives through an integrative interdisciplinary approach](https://doi.org/10.1016/j.futures.2025.103649). Futures, 173, 103649.  
 
 - Park, W., Grace, M. Hutton, C. W., & Knowles, S. G. (2025). [Science education in an age of unnatural disasters: An introduction to the special issue](https://doi.org/10.1007/s11191-025-00652-1). Science & Education, 34(3), 957-967.
 
