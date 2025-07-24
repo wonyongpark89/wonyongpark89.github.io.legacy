@@ -1,6 +1,6 @@
 ---
 title: "Making Research Matter: Towards Evidence-Informed Science Education Practice in the UK"
-permalink: /projects/policy/
+permalink: /projects/evidence/
 excerpt: "This project aims to strengthen engagement between higher education institutions and learned societies to explore future directions for research-informed policy and policy-informing research in science education in England. <br/><br/><img src='/images/thumbnail_evidence.png' width='400'>"
 collection: projects
 ---
