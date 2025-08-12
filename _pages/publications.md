@@ -14,6 +14,8 @@ author_profile: true
 
 ## Edited volumes
 
+- Park, W., & Guilfoyle, L. (in progress). (Eds.). [Research-informed policy and practice in science education](https://link.springer.com/collections/cbfhegcjed). Special issue of Research in Science Education.
+
 - Park, W., Grace, M. Hutton, C. W., & Knowles, S. G. (2025). (Eds.). [Science education in an age of unnatural disasters](https://doi.org/10.1007/s11191-025-00652-1). Special Issue of Science & Education (Volume 34, Issue 3).
 
 - Millar, V., Park, W., & Dillon, J. (2025, in press). (Eds.). [The science curriculum: Issues, tensions and future prospects](https://doi.org/10.1080/09500693.2025.2504644). Special Issue of International Journal of Science Education.
@@ -73,6 +75,7 @@ author_profile: true
 - Park, W., & Song, J. (2018). [Goethe’s conception of “experiment as mediator” and implications for practical work in school science](https://doi.org/10.1007/s11191-018-9965-z). Science & Education, 27(1–2), 39–61.
 
 ## Book chapters
+
 - Park, W., Chun, J., & Ji, H. (2025). [Why did the Fukushima nuclear accident happen, and how did it affect people?](https://doi.org/10.1007/978-3-031-76297-0_21). In D. Steele & A. K. Mercier (Eds.), Justice-oriented science teaching and learning: Anchoring phenomena in secondary classrooms (pp. 397-410). Springer. 
 
 - Skilling, K., & Park, W. (2024). [STEM in a changing world: “Insider” and “outsider” perspectives](https://doi.org/10.4324/9781003404989-2). In L. English & T. Lehmann (Eds.), Ways of thinking in STEM-based problem solving: Teaching and learning in a new era (pp. 15–28). Routledge.  
