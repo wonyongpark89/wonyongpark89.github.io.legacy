@@ -115,6 +115,9 @@ author_profile: true
 
 ## Technical reports
 
+- Park, W., Downey, C., Hughes, C., Russell, H., Cutler, M., & Ladbrook, L. (2025). [Making research count in science
+education policy](https://doi.org/10.5258/SOTON/P1232). University of Southampton & Association for Science Education. 
+
 - Park, W., Fancourt, N., Habibi, A., & Wahabi, H. (2025). [Teaching about Grenfell: Recommendations from the community](https://doi.org/10.5258/SOTON/P1214). University of Southampton & University of Oxford.
 
 - Park, W., Byrne, I., Scraton, P., Lee, J., Lee, E., Wahabi, H., & Calamelli, E., (2024). [Education and memorialisation for disaster justice: Lessons from Grenfell, Hillsborough and Sewol](https://doi.org/10.5258/SOTON/PP0070). University of Southampton. 
