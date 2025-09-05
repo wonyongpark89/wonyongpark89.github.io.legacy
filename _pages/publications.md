@@ -115,8 +115,7 @@ author_profile: true
 
 ## Technical reports
 
-- Park, W., Downey, C., Hughes, C., Russell, H., Cutler, M., & Ladbrook, L. (2025). [Making research count in science
-education policy](https://doi.org/10.5258/SOTON/P1232). University of Southampton & Association for Science Education. 
+- Park, W., Downey, C., Hughes, C., Russell, H., Cutler, M., & Ladbrook, L. (2025). [Making research count in science education policy](https://doi.org/10.5258/SOTON/P1232). University of Southampton & Association for Science Education. 
 
 - Park, W., Fancourt, N., Habibi, A., & Wahabi, H. (2025). [Teaching about Grenfell: Recommendations from the community](https://doi.org/10.5258/SOTON/P1214). University of Southampton & University of Oxford.
 
