@@ -61,7 +61,19 @@ author_profile: true
 
 - 🇰🇷 Seoul National University. International Conference on Science Education in the Infosphere. November 2024.
 
-- 🇰🇷 Korea Advanced Institute of Science and Technology, Slow Disaster Lab. December 2023.
+- 🇰🇷 Korea Advanced Institute of Science and Technology, Slow Disaster Lab. December 2024.
+
+- 🇺🇸 NARST International Committee. February 2025.
+
+- 🇰🇷 4.16 Institute for Life and Safety Education. April 2025.
+
+- 🇦🇺 Macquarie University, Macquarie School of Education. May 2025.
+
+- 🇰🇷 Ewha Womans University, Research Centre for Hazard Literacy Education (International Conference on Hazard Literacy). September 2025.
+
+- 🇰🇷 Korean Association for Science Education, Horizon Series. September 2025.
+
+- 🇺🇸 University at Buffalo. Asia Research Centre. September 2025.
 
 ## Conference presentations
 
