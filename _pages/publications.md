@@ -14,7 +14,9 @@ author_profile: true
 
 ## Edited volumes
 
-- Park, W., & Guilfoyle, L. (in progress). (Eds.). [Research-informed policy and practice in science education](https://link.springer.com/collections/cbfhegcjed). Special issue of Research in Science Education.
+- Park, W., Summers, R., & Pleasants, J. (under contract). (Eds.). Nature of science in science curriculum and teacher education: A global perspective. Springer.
+
+- Park, W., & Guilfoyle, L. (in progress). (Eds.). [Research-informed policy and practice in science education](https://link.springer.com/collections/cbfhegcjed). Special issue of Research in Science Education. (Volume 47, Issue 15–16) 
 
 - Park, W., Grace, M. Hutton, C. W., & Knowles, S. G. (2025). (Eds.). [Science education in an age of unnatural disasters](https://doi.org/10.1007/s11191-025-00652-1). Special Issue of Science & Education (Volume 34, Issue 3).
 
