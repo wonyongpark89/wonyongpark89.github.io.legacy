@@ -16,13 +16,13 @@ author_profile: true
 
 ## Edited volumes
 
-- Park, W., & Guilfoyle, L. (in progress). (Eds.). [Research-informed policy and practice in science education](https://link.springer.com/collections/cbfhegcjed). *Special issue of Research in Science Education* (Volume 47, Issue 15–16) 
+- Park, W., & Guilfoyle, L. (in progress). (Eds.). [Research-informed policy and practice in science education](https://link.springer.com/collections/cbfhegcjed). Special issue of *Research in Science Education* (Volume 47, Issue 15–16) 
 
-- Park, W., Grace, M. Hutton, C. W., & Knowles, S. G. (2025). (Eds.). [Science education in an age of unnatural disasters](https://doi.org/10.1007/s11191-025-00652-1). *Special Issue of Science & Education* (Volume 34, Issue 3).
+- Park, W., Grace, M. Hutton, C. W., & Knowles, S. G. (2025). (Eds.). [Science education in an age of unnatural disasters](https://doi.org/10.1007/s11191-025-00652-1). Special Issue of *Science & Education* (Volume 34, Issue 3).
 
-- Millar, V., Park, W., & Dillon, J. (2025, in press). (Eds.). [The science curriculum: Issues, tensions and future prospects](https://doi.org/10.1080/09500693.2025.2504644). *Special Issue of International Journal of Science Education.*
+- Millar, V., Park, W., & Dillon, J. (2025, in press). (Eds.). [The science curriculum: Issues, tensions and future prospects](https://doi.org/10.1080/09500693.2025.2504644). Special Issue of *International Journal of Science Education.*
 
-- Park, W., & Erduran, S. (2025). [Argumentation and the problem of misinformation in science education](https://link.springer.com/collections/jfjieedgbd). *Thematic Collection of Research in Science Education.*
+- Park, W., & Erduran, S. (2025). [Argumentation and the problem of misinformation in science education](https://link.springer.com/collections/jfjieedgbd). Thematic Collection of *Research in Science Education.*
 
 ## Journal articles
 
