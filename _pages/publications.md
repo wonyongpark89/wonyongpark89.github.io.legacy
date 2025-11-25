@@ -26,11 +26,11 @@ author_profile: true
 
 ## Journal articles
 
-- Park, W., Erduran, S., & Hillier, J. (accepted, in press). Building connections to teach nature of science: An experienced science teacher’s formative assessment practice in a high school classroom. *Journal of Research in Science Teaching.*
+- Park, W., Erduran, S., & Hillier, J. (in press). [Building connections to teach nature of science: An experienced science teacher’s formative assessment practice in a high school classroom](https://doi.org/10.1002/tea.70029). *Journal of Research in Science Teaching.*
 
 - Millar, V., Park, W., & Dillon, J. (2025). [The science curriculum: Issues, tensions and future prospects](https://doi.org/10.1080/09500693.2025.2504644). *International Journal of Science Education,* 47(15–16), 1965–1971.
 
-- Townend, I., ... & Wanick, V. (2025). [Anticipating futures: Understanding the fundamental importance of narratives through an integrative interdisciplinary approach](https://doi.org/10.1016/j.futures.2025.103649). *Futures,* 173, 103649.  
+- Townend, I., Baden, D., Baker, J., Buermann, J., Dawson, I., Dbouk, W., Dearing, J. A., Doncaster, C. P., Eigenbrod, F., Hellman, T., Hoyle, R. B., & Ianni, A., Kassem, H., Katsikopoulou, K., Kunc, M., Manfren, M., Marshall, A., Park, W., Sengupta, D., & Wanick, V. (2025). [Anticipating futures: Understanding the fundamental importance of narratives through an integrative interdisciplinary approach](https://doi.org/10.1016/j.futures.2025.103649). *Futures*, 173, 103649. 
 
 - Park, W., Grace, M. Hutton, C. W., & Knowles, S. G. (2025). [Science education in an age of unnatural disasters: An introduction to the special issue](https://doi.org/10.1007/s11191-025-00652-1). *Science & Education,* 34(3), 957–967.
 
@@ -52,7 +52,7 @@ author_profile: true
 
 - Park, W., & Brock, R. (2023). [Is there a limit to resemblances? Teaching about science and pseudoscience from a family resemblance perspective](https://doi.org/10.1007/s11191-022-00394-4). *Science & Education,* 32(5), 1265–1286.
 
-- Cho, H-J., ... & Park, W. (2022). [Environmental themes and ecosystem services in picture books about forests for sustainability education](https://doi.org/10.1080/09500693.2022.2154132). *Journal of Forest Research,* 27(6), 419–428.
+- Cho, H-J., Jo, J.H., Choi, N., Choi, J., & Park, W. (2022). [Environmental themes and ecosystem services in picture books about forests for sustainability education](https://doi.org/10.1080/09500693.2022.2154132). *Journal of Forest Research,* 27(6), 419–428.
 
 - Park, W., & Cho, H. (2022). [The interaction of history and STEM learning goals in teacher-developed curriculum materials: Opportunities and challenges for STEAM education](https://doi.org/10.1007/s12564-022-09741-0). *Asia Pacific Education Review,* 23(3), 457–474.
 
