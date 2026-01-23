@@ -26,7 +26,7 @@ author_profile: true
 
 ## Journal articles
 
-- Park, W., Erduran, S., & Hillier, J. (in press). [Building connections to teach nature of science: An experienced science teacher’s formative assessment practice in a high school classroom](https://doi.org/10.1002/tea.70029). *Journal of Research in Science Teaching.*
+- Park, W., Erduran, S., & Hillier, J. (2025). [Building connections to teach nature of science: An experienced science teacher’s formative assessment practice in a high school classroom](https://doi.org/10.1002/tea.70029). *Journal of Research in Science Teaching*, 63(2), 161-185.
 
 - Millar, V., Park, W., & Dillon, J. (2025). [The science curriculum: Issues, tensions and future prospects](https://doi.org/10.1080/09500693.2025.2504644). *International Journal of Science Education,* 47(15–16), 1965–1971.
 
