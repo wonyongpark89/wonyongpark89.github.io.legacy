@@ -24,4 +24,11 @@ I welcome prospective PhD students and postdoctoral researchers who share intere
 
 If you are considering a postdoctoral pathway, you may wish to explore opportunities such as [ESRC SCDTP Postdoctoral Fellowships](https://southcoastdtp.ac.uk/our-people/postdoctoral-fellows/), [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships), [British Academy Postdoctoral Fellowships](https://www.thebritishacademy.ac.uk/funding/postdoctoral-fellowships/) and [Leverhulme Early Career Fellowships](https://www.leverhulme.ac.uk/early-career-fellowships).
 
+I am previliged to be supervisor to four wonderful PhD students:
+* Jingwen Song: Teacher professional development for action-oriented climate change education through socioscientific inquiry-based learning (SSIBL): a case study of an early childhood setting in Shanghai, China (started 2022)
+* Emily Bastable: How can Knowledge Exchange and Enterprise be applied and integrated into Higher Education curricula? (started 2023)
+* Yizhang Sun: Using Chinese traditional cultural resources to enrich high school chemistry teaching (started 2024)
+* Callie Langley: Composing Resilience: The Role of Music in Post-Disaster Recovery and Community Resilience in the UK (started 2025)
+
+
 
